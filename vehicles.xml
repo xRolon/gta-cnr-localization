@@ -1097,7 +1097,7 @@
         <String xml:lang="cs-CZ">Uskladnit</String>
         <String xml:lang="lv-LV">Atgriezt</String>
         <String xml:lang="tr-TR">Muhafaza</String>
-        <String xml:lang="en-ES">concencionario</String>
+        <String xml:lang="en-ES">Guardar</String>
     </Entry>
 
     <Entry Id="menu_vehicles_store_your_garage">
