@@ -5140,6 +5140,8 @@
         <String xml:lang="it-IT">~r~Uccidere il cassiere non era nel piano! ~s~La tua parte è ~g~{0}~s~.</String>
         <String xml:lang="id-ID">~r~Membunuh penjaga toko bukan bagian dari rencana! ~s~Bagianmu adalah ~g~{0}~s~.</String>
         <String xml:lang="lv-LV">~r~Kasiera nogalināšana nebija plānā! ~s~Jūsu daļa ir ~g~{0}~s~.</String>
+        <String xml:lang="es-ES">~r~¡Matar al empleado no estaba en el plan! ~s~Tu parte e s~g~{0}~s~.</String>
+        <String xml:lang="pt-BR">~r~Matar o funcionário não estava no plano! ~s~Sua parte é ~g~{0}~s~.</String>
     </Entry>
 
     <Entry Id="robbery_clerk_killed_complete">
@@ -5151,6 +5153,8 @@
         <String xml:lang="it-IT">~r~Uccidere il cassiere non era nel piano! ~s~Hai guadagnato ~g~{0}~s~.</String>
         <String xml:lang="id-ID">~r~Membunuh penjaga toko bukan bagian dari rencana! ~s~kamu mendapatkan ~g~{0}~s~.</String>
         <String xml:lang="lv-LV">~r~Kasiera nogalināšana nebija plānā! ~s~Jūs nopelnījāt ~g~{0}~s~.</String>
+        <String xml:lang="es-ES">~r~¡Matar al empleado no estaba en el plan! ~s~Ganaste ~g~{0}~s~.</String>
+        <String xml:lang="pt-BR">~r~Matar o funcionário não estava no plano! ~s~Você ganhou ~g~{0}~s~.</String>
     </Entry>
 
     <Entry Id="robbery_clerk_not_intimidated_cut">
@@ -5162,6 +5166,8 @@
         <String xml:lang="it-IT">~r~Il cassiere non è più intimidito! ~s~La tua parte è ~g~{0}~s~.</String>
         <String xml:lang="id-ID">~r~Penjaga toko tidak lagi merasa terancam! ~s~bagianmu adalah ~g~{0}~s~.</String>
         <String xml:lang="lv-LV">~r~Kasieris vairs nav iebiedēts! ~s~Jūsu daļa ir ~g~{0}~s~.</String>
+        <String xml:lang="es-ES">~r~¡El empleado ya no se intimido! ~s~Su parte es ~g~{0}~s~.</String>
+        <String xml:lang="pt-BR">~r~O funcionário não se sente mais intimidado! ~s~Sua parte é ~g~{0}~s~.</String>
     </Entry>
 
     <Entry Id="robbery_clerk_not_intimidated_complete">
@@ -5173,6 +5179,8 @@
         <String xml:lang="it-IT">~r~Il cassiere non è più intimidito! ~s~Hai guadagnato ~g~{0}~s~.</String>
         <String xml:lang="id-ID">~r~Penjaga toko tidak lagi merasa terancam! ~s~kamu mendapatkan ~g~{0}~s~.</String>
         <String xml:lang="lv-LV">~r~Kasieris vairs nav iebiedēts! ~s~Jūs nopelnījāt ~g~{0}~s~.</String>
+        <String xml:lang="es-ES">~r~¡El empleado ya no se deja intimidar! ~s~Ha ganado ~g~{0}~s~.</String>
+        <String xml:lang="pt-BR">~r~O funcionário não se sente mais intimidado!~s~ Você ganhou ~g~{0}~s~.</String>
     </Entry>
 
     <Entry Id="robbery_fail_clerk_killed">
@@ -5903,6 +5911,8 @@
         <String xml:lang="id-ID">Kamu ~o~sedang diburu ~s~oleh kepolisian. Keluar dari mobilku!</String>
         <String xml:lang="lv-LV">Jūs ~o~meklē~s~ policija. Kāpj ārā no manas mašīnas!</String>
         <String xml:lang="hi-Latn">Police aapko ~o~dhoond rahi hai~s~. Meri gaadi se abhi niklo!</String>
+        <String xml:lang="es-ES">~o~Te busca ~s~la policía. ¡Fuera de mi coche!</String>
+        <String xml:lang="pt-BR">~o~A polícia ~s~está procurando por você. Saia do meu carro!</String>
     </Entry>
 
     <Entry Id="dealership_drive_time">
@@ -5914,6 +5924,8 @@
         <String xml:lang="id-ID">~r~Waktu habis.</String>
         <String xml:lang="lv-LV">~r~Laiks ir beidzies.</String>
         <String xml:lang="hi-Latn">~r~Time khatam.</String>
+        <String xml:lang="es-ES">~r~Se acabó el tiempo.</String>
+        <String xml:lang="pt-BR">~r~O tempo acabou.</String>
     </Entry>
 
     <Entry Id="dealership_drive_left">
@@ -5925,6 +5937,8 @@
         <String xml:lang="id-ID">Kamu ~r~meninggalkan ~s~~b~kendaraan~s~.</String>
         <String xml:lang="lv-LV">Jūs ~r~atstājāt ~b~transportlīdzekli~s~.</String>
         <String xml:lang="hi-Latn">Aapne ~b~vehicle ~r~left ~s~kar diya.</String>
+        <String xml:lang="es-ES">~r~Abandonaste ~s~el ~b~vehículo~s~.</String>
+        <String xml:lang="pt-Br">Você ~r~abandonou~s~ o ~b~veículo~s~.</String>
     </Entry>
 
     <Entry Id="dealership_drive_too_far_away">
@@ -5936,6 +5950,8 @@
         <String xml:lang="id-ID">Kamu pergi ~r~terlalu jauh ~s~dari ~y~dealer kendaraan~s~.</String>
         <String xml:lang="lv-LV">Jūs devāties ~r~pārāk tālu~s~ no ~y~dīlercentra~s~.</String>
         <String xml:lang="hi-Latn">Aap ~r~dealership ~s~se ~y~bahut door ~s~chale gaye.</String>
+        <String xml:lang="es-ES">Fuiste ~r~demasiado lejos ~s~del ~y~concesionario~s~.</String>
+        <String xml:lang="pt-BR">Você foi muito ~r~longe ~s~da ~y~concessionária~s~.</String>
     </Entry>
 
     <Entry Id="dealership_drive_damaged">
@@ -5947,6 +5963,8 @@
         <String xml:lang="id-ID">Kamu ~r~merusak ~s~kendaraan! Kamu tidak akan mendapatkan depositmu lagi.</String>
         <String xml:lang="lv-LV">Jūs ~r~sabojājāt~s~ transportlīdzekli! Jūs nesaņemsiet savu depozītu atpakaļ.</String>
         <String xml:lang="hi-Latn">Aapne vehicle ko ~r~damage ~s~kiya! Aapka deposit wapas nahi milega.</String>
+        <String xml:lang="es-ES">¡Usted ~r~dañó ~s~el vehículo! No se le devolverá garantia.</String>
+        <String xml:lang="pt-BR">Você ~r~danificou~s~ o veículo! Não há reembolso da garantia.</String>
     </Entry>
 
     <Entry Id="dealership_specified_plate_taken">

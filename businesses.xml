@@ -1526,6 +1526,8 @@
         <String xml:lang="ar-001">لون النافذة</String>
         <String xml:lang="tr-TR">Cam filmi</String>
         <String xml:lang="zh-Hant">窗戶上色</String>
+        <String xml:lang="es-ES">Tintado de ventanas</String>
+        <String xml:lang="pt-BR">Tingimento de carros</String>
     </Entry>
 
     <Entry Id="menu_mechanic_respray_subtitle">

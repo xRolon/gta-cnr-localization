@@ -300,6 +300,8 @@
         <String xml:lang="sv-SE">{0} ~s~har dött av en ~r~sjukdom~s~.</String>
         <String xml:lang="ar-001">{0} ~s~لقد مات من ~r~مرض~s~.</String>
         <String xml:lang="tr-TR">{0} ~r~hastalıktan ~s~öldü.</String>
+        <String xml:lang="es-ES">{0} ~s~ha muerto de ~r~enfermedad~s~.</String>
+        <String xml:lang="pt-BR">{0} ~s~morreu de ~r~doença~s~.</String>
     </Entry>
 
     <Entry Id="drowned">
@@ -736,6 +738,7 @@
         <String xml:lang="zh-Hant">用~r~突擊步槍~s~</String>
         <String xml:lang="zh-Hans">用~r~突击步枪~s~</String>
         <String xml:lang="pt-BR">com um ~r~fuzil de assalto~s~</String>
+        <String xml:lang="es-ES">con un ~r~rifle de asalto~s~</String>
         <String xml:lang="th-TH">โดย ~r~ปืนไรเฟิล~s~</String>
         <String xml:lang="vi-VN">Với một khẩu ~r~Súng trường~s~</String>
         <String xml:lang="id-ID">dengan ~r~senjata assault~s~</String>

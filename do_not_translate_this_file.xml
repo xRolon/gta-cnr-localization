@@ -591,5 +591,6 @@
         <String xml:lang="id-ID">Tawarkan ~y~layanan~s~ kepada pemain ini.</String>
         <String xml:lang="lv-LV">Piedāvājiet ~y~pakalpojumus~s~ šim spēlētājam.</String>
         <String xml:lang="tr-TR">Bu oyuncuya ~y~hizmetler~s~ini sun.</String>
+         <!-- Bro say there , Not translate, stoppp.-->
     </Entry>
 </Entries>
