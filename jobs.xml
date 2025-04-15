@@ -1499,14 +1499,14 @@
     </Entry>
 
     <Entry Id="mechanic_plate_input_text">
-        <String xml:lang="en-US">Enter a vanity license plate for this vehicle.\nWarning: when you obtain a license plate, you only own it on the current region (US or EU). When you join another region, the server tries to transfer it there, however, if it's already in use it won't be transferred.</String>
-        <String xml:lang="nl-NL">Voer een persoonlijke kentekenplaat in voor dit voertuig.\nWaarschuwing: wanneer je een kentekenplaat verkrijgt, bezit je deze alleen in de huidige regio (US of EU). Wanneer je naar een andere regio gaat, probeert de server deze daarheen te verplaatsen, maar als deze al in gebruik is, wordt deze niet overgezet.</String>
-        <String xml:lang="fr-FR">Entrer une plaque d'immatriculation personnalisée pour ce véhicule.\nAvertissement: quand tu obtiens une plaque d'immatriculation, tu ne la possèdes que dans la région actuelle (US ou EU). Quand tu rejoins une autre région, le serveur tente de la transférer, mais si elle est déjà utilisée, elle ne sera pas transférée.</String>
-        <String xml:lang="hi-Latn">Is gaadi ke liye ek custom license plate daalein.\nWarning: jab aap ek license plate milta hai, toh aap sirf us region mein use kar sakte hain (US ya EU). Jab aap doosre region mein jaate hain, toh server uss vehicle plate ko tranasfer karne ki koshish karta hai, lekin agar woh pahle se hi istemaal mein hai to usse transfer nahin kiya ja sakta.</String>
-        <String xml:lang="de-DE">Gib ein Wunschkennzeichen für dieses Fahrzeug ein.\nWarning: wenn du ein Wunschkennzeichen beanstpruchst, kannst du es ausschließlich in der aktuellen Region (US or EU) verwenden. Wenn du eine andere Region betrittst, wird der Server versuchen, es zu übertragen, sollte das Kennzeichen bereits in Verwendung sein, wird es nicht übertragen.</String>
-        <String xml:lang="it-IT">Inserisci una targa personalizzata per questo veicolo.\nAttenzione: quando ottieni una targa, la possiedi solo nella regione attuale (US o EU). Quando ti trasferisci in un'altra regione, il server cercherà di trasferirla lì, tuttavia, se è già in uso, non verrà trasferita.</String>
-        <String xml:lang="id-ID">Masukkan plat nomor kustom untuk kendaraan ini. \nPerhatian: Ketika kamu mendapatkan plat nomor, plat nomor itu hanya berlaku di daerah (US atau EU). Ketika kamu bergabung ke daerah lain, server akan mencoba untuk memindahkan plat tersebut, tetapi, jika sudah ada yang menggunakannya maka plat nomor tersebut tidak akan dipindahkan.</String>
-        <String xml:lang="lv-LV">Ievadiet šī transportlīdzekļa jauno numura zīmi.\nBrīdinajums: iegūstot numura zīmi, tā pieder jums tikai pašreizējā reģionā (US vai EU). Pievienojoties citam reģionam, serveris mēģina to pārnest uz to reģionu, taču ja tāda numura zīme jau ir aizņemta, tā netiks pārnesta.</String>
+        <String xml:lang="en-US">Enter a vanity license plate for this vehicle.\nWarning: when you obtain a license plate, you only own it on the current region. When you join another region, the server tries to transfer it there, however, if it's already in use it won't be transferred.</String>
+        <String xml:lang="nl-NL">Voer een persoonlijke kentekenplaat in voor dit voertuig.\nWaarschuwing: wanneer je een kentekenplaat verkrijgt, bezit je deze alleen in de huidige regio. Wanneer je naar een andere regio gaat, probeert de server deze daarheen te verplaatsen, maar als deze al in gebruik is, wordt deze niet overgezet.</String>
+        <String xml:lang="fr-FR">Entrer une plaque d'immatriculation personnalisée pour ce véhicule.\nAvertissement: quand tu obtiens une plaque d'immatriculation, tu ne la possèdes que dans la région actuelle. Quand tu rejoins une autre région, le serveur tente de la transférer, mais si elle est déjà utilisée, elle ne sera pas transférée.</String>
+        <String xml:lang="hi-Latn">Is gaadi ke liye ek custom license plate daalein.\nWarning: jab aap ek license plate milta hai, toh aap sirf us region mein use kar sakte hain. Jab aap doosre region mein jaate hain, toh server uss vehicle plate ko tranasfer karne ki koshish karta hai, lekin agar woh pahle se hi istemaal mein hai to usse transfer nahin kiya ja sakta.</String>
+        <String xml:lang="de-DE">Gib ein Wunschkennzeichen für dieses Fahrzeug ein.\nWarning: wenn du ein Wunschkennzeichen beanstpruchst, kannst du es ausschließlich in der aktuellen Region verwenden. Wenn du eine andere Region betrittst, wird der Server versuchen, es zu übertragen, sollte das Kennzeichen bereits in Verwendung sein, wird es nicht übertragen.</String>
+        <String xml:lang="it-IT">Inserisci una targa personalizzata per questo veicolo.\nAttenzione: quando ottieni una targa, la possiedi solo nella regione attuale. Quando ti trasferisci in un'altra regione, il server cercherà di trasferirla lì, tuttavia, se è già in uso, non verrà trasferita.</String>
+        <String xml:lang="id-ID">Masukkan plat nomor kustom untuk kendaraan ini. \nPerhatian: Ketika kamu mendapatkan plat nomor, plat nomor itu hanya berlaku di daerah. Ketika kamu bergabung ke daerah lain, server akan mencoba untuk memindahkan plat tersebut, tetapi, jika sudah ada yang menggunakannya maka plat nomor tersebut tidak akan dipindahkan.</String>
+        <String xml:lang="lv-LV">Ievadiet šī transportlīdzekļa jauno numura zīmi.\nBrīdinajums: iegūstot numura zīmi, tā pieder jums tikai pašreizējā reģionā. Pievienojoties citam reģionam, serveris mēģina to pārnest uz to reģionu, taču ja tāda numura zīme jau ir aizņemta, tā netiks pārnesta.</String>
     </Entry>
 
     <Entry Id="mechanic_plate_word">
@@ -3687,26 +3687,7 @@
         <String xml:lang="hi-Latn">{0} ne aapka bribe offer ~r~refuse ~s~kar diya hai aur report kar diya hai. Aapka wanted level badh gaya hai.</String>
         <String xml:lang="lv-LV">{0} ~r~noraidīja~s~ jūsu kukuļa piedāvājumu un ziņoja par incidentu. Jūs ieguvāt wanted līmeni.</String>
     </Entry>
-
-    <!-- {0} = Player -->
-    <!-- {1} = Reason -->
-    <Entry Id="police_player_911_call">
-        <String xml:lang="en-US">{0} {1}</String>
-        <String xml:lang="nl-NL">{0} {1}</String>
-        <String xml:lang="it-IT">{0} {1}</String>
-        <String xml:lang="fr-FR">{0} {1}</String>
-        <String xml:lang="pl-PL">{0} {1}</String>
-        <String xml:lang="es-ES">{0} {1}</String>
-        <String xml:lang="pt-BR">{0} {1}</String>
-        <String xml:lang="de-DE">{0} {1}</String>
-        <String xml:lang="ar-001">{0} {1}</String>
-        <String xml:lang="id-ID">{0} {1}</String>
-        <String xml:lang="zh-Hant">{0} {1}</String>
-        <String xml:lang="th-TH">{0} {1}</String>
-        <String xml:lang="hi-Latn">{0} {1}</String>
-        <String xml:lang="lv-LV">{0} {1}</String>
-    </Entry>
-
+    
     <!-- {0} = countdown -->
     <Entry Id="police_leaving_us_offduty">
         <String xml:lang="en-US">~y~Warning: ~s~you are leaving the ~b~United States~s~. You will go off duty in {0} seconds.</String>
@@ -6705,23 +6686,23 @@
     </Entry>
     
     <!-- Jewelry Robbery -->
-    <Entry Id="jewelry_cannot_be_robbed">
+    <Entry Id="jewelry_robbery_not_ideal">
         <String xml:lang="en-US">This is not the ideal way to rob the ~b~jewelry store~s~. Keep exploring the area, and you might find something.</String>
     </Entry>
     
-    <Entry Id="jewelry_hint_1">
+    <Entry Id="jewelry_robbery_hint_1">
         <String xml:lang="en-US">What will you find ~b~up there~s~?</String>
     </Entry>
     
-    <Entry Id="jewelry_hint_2">
+    <Entry Id="jewelry_robbery_hint_2">
         <String xml:lang="en-US">Hey, that's the ~b~jewelry store~s~'s roof over there.</String>
     </Entry>
     
-    <Entry Id="jewelry_hint_3">
+    <Entry Id="jewelry_robbery_hint_3">
         <String xml:lang="en-US">Look at that, it's the ~y~air vent ~s~of the ~b~jewelry store~s~.</String>
     </Entry>
     
-    <Entry Id="jewelry_hint_4">
+    <Entry Id="jewelry_robbery_hint_4">
         <String xml:lang="en-US">This seems like the perfect throwing spot... Do you have ~y~tear gas~s~?</String>
     </Entry>
     
@@ -6729,15 +6710,19 @@
         <String xml:lang="en-US">~r~The jewelry store robbery is already in progress.</String>
     </Entry>
     
+    <!-- {0} = Minutes -->
+    <!-- {1} = Seconds -->
     <Entry Id="jewelry_robbery_cooldown">
         <String xml:lang="en-US">~r~The jewelry store robbery cannot be started for the next ~s~{0} minutes ~r~and ~s~{1} seconds~r~.</String>
     </Entry>
     
+    <!-- {0} = Number of required cops -->
     <Entry Id="jewelry_robbery_not_enough_cops">
         <String xml:lang="en-US">You can't rob the ~b~jewelry store ~s~when there are less than ~b~{0} cops ~s~online.</String>
     </Entry>
     
     <!-- Example: you can't rob the jewelry store before Sunday 10:00 -->
+    <!-- Week days are translated in main.xml -->
     <Entry Id="jewelry_robbery_early">
         <String xml:lang="en-US">You can't rob the ~b~jewelry store ~s~before ~y~{0}~s~.</String>
     </Entry>
@@ -6751,6 +6736,10 @@
         <String xml:lang="en-US">The ~y~tear gas ~s~has entered the ~b~jewelry store~s~ through the vent.</String>
     </Entry>
     
+    <Entry Id="jewelry_robbery_police_notification">
+        <String xml:lang="en-US">(C)Dispatch:(/C) Attention all units. The (C)jewelry store(/C) is being robbed.</String>
+    </Entry>
+    
     <!-- Please try to keep it short, these will show up at the bottom right of the screen -->
     <!-- like the info bars that show up during normal robberies, and there's not much space there -->
     <Entry Id="jewelry_robbery_timer_bar_take">
@@ -6759,10 +6748,6 @@
     
     <Entry Id="jewelry_robbery_timer_bar_alarm">
         <String xml:lang="en-US">ALARM</String>
-    </Entry>
-    
-    <Entry Id="jewelry_robbery_timer_bar_gas">
-        <String xml:lang="en-US">GAS</String>
     </Entry>
     
     <!-- This will show up at the bottom right as a hint. For example "[B] Break" -->
@@ -6786,7 +6771,7 @@
         <String xml:lang="en-US">You ~g~successfully ~s~broke the ~b~glass~s~.</String>
     </Entry>
 
-    <!-- {0} is a list of items, for example: "You stole 1 Silver Watch, 2 Gold Necklace."-->
+    <!-- {0} is a LIST of items, for example: "You stole 1 Silver Watch, 2 Gold Necklace."-->
     <Entry Id="jewelry_robbery_stole_items">
         <String xml:lang="en-US">You stole {0}.</String>
     </Entry>
@@ -6797,6 +6782,64 @@
     </Entry>
     
     <Entry Id="jewelry_robbery_go_to_hideout">
-        <String xml:lang="en-US">You went far enough from the ~b~jewelry store~s~. Now go to a ~y~hideout ~s~to complete the ~r~robbery~s~.</String>
+        <String xml:lang="en-US">You went far enough from the ~b~jewelry store~s~. Now go to a ~r~hideout ~s~to finish the robbery~s~.</String>
+    </Entry>
+    
+    <!-- {0} = Number of available hideouts. Example: 4 -->
+    <Entry Id="jewelry_robbery_hideouts_available">
+        <String xml:lang="en-US">You have ~y~{0} ~s~suitable ~r~hideouts~s~.</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_no_hideouts_available">
+        <String xml:lang="en-US">You don't have a suitable ~r~hideout~s~. You can go to a ~g~friend~s~'s hideout to finish the robbery.</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_list_hideouts_btn">
+        <String xml:lang="en-US">View Hideouts</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_list_hideouts">
+        <String xml:lang="en-US">Hideouts</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_list_hideouts_subtitle">
+        <String xml:lang="en-US">Available hideouts</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_no_items_taken">
+        <String xml:lang="en-US">~r~You haven't stolen any items from the jewelry store.</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_property_owner_offline">
+        <String xml:lang="en-US">~r~The owner of this property is offline. Use a different hideout.</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_cuffed">
+        <String xml:lang="en-US">You have been ~r~cuffed ~s~and you failed the ~b~jewelry store robbery~s~.</String>
+    </Entry>
+    
+    <Entry Id="jewelry_robbery_respawned">
+        <String xml:lang="en-US">You ~r~died ~s~and you failed the ~b~jewelry store robbery~s~.</String>
+    </Entry>
+
+    <!-- {0} = Amount of items stolen. Example: 16 -->
+    <Entry Id="jewelry_robbery_success">
+        <String xml:lang="en-US">~g~Robbery completed! ~s~You successfully stole ~y~{0} items ~s~from the ~b~jewelry store~s~.</String>
+    </Entry>
+
+    <!-- {0} = Amount of items stolen. -->
+    <!-- {1} = Name of the owner of the property/hideout/warehouse -->
+    <Entry Id="jewelry_robbery_success_others_hideout">
+        <String xml:lang="en-US">~g~Robbery completed! ~s~You successfully stole ~y~{0} items ~s~from the ~b~jewelry store ~s~and stored them in {1}'s property.</String>
+    </Entry>
+
+    <Entry Id="jewelry_robbery_success_with_error">
+        <String xml:lang="en-US">~o~Robbery completed with an error: ~s~some items were not received likely due to ~r~insufficient space ~s~in the property.</String>
+    </Entry>
+    
+    <!-- {0} = Name of the player who completed the robbery -->
+    <!-- {1} = Amount of items stolen. -->
+    <Entry Id="jewelry_robbery_success_global_notification">
+        <String xml:lang="en-US">(C){0}(/C) robbed (C){1} jewels(/C) from the jewelry store!</String>
     </Entry>
 </Entries>
