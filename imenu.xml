@@ -3267,6 +3267,8 @@
         <String xml:lang="cs-CZ">Arms Dealer</String>
         <String xml:lang="it-IT">Trafficante d'Armi</String>
         <String xml:lang="lv-LV">Ieroču Izplatītājs</String>
+        <String xml:lang="es-ES">Traficante de armas</String>
+        <String xml:lang="pt-Br">Traficante de armas</String>
     </Entry>
 
     <Entry Id="imenu_services_arms_dealer_description">
@@ -3278,6 +3280,8 @@
         <String xml:lang="fr-FR">Appellez un ~r~vendeur d'armes~s~ pour acheter des armes et des munitions illégales.</String>
         <String xml:lang="it-IT">Chiama un ~r~trafficante d'armi~s~ per comprare armi e munizioni illegali.</String>
         <String xml:lang="lv-LV">Izsauciet ~r~Ieroču Izplatītāju~s~, lai iegādātos nelegālos ieročus un ammunīciju.</String>
+        <String xml:lang="es-ES">Llama a un ~r~traficante de armas~s~ para comprar armas y munición ilegales.</String>
+        <String xml:lang="pt-BR">Ligar para um ~r~traficante de armas ~s~para comprar armas e munições ilegais.</String>
     </Entry>
 
     <!-- nullnull{0} = Vehicle name (for example: Nero Custom)
@@ -3313,6 +3317,8 @@
         <String xml:lang="no-NO">Telefon</String>
         <String xml:lang="fr-FR">Téléphone</String>
         <String xml:lang="lv-LV">Tālrunis</String>
+        <String xml:lang="es-ES">Teléfono</String>
+        <String xml:lang="pt-BR">Celular</String>
     </Entry>
 
     <Entry Id="imenu_phone_descr">
@@ -3321,6 +3327,8 @@
         <String xml:lang="no-NO">Bruk mobiltelefonen din</String>
         <String xml:lang="fr-FR">Utilisez votre téléphone mobile</String>
         <String xml:lang="lv-LV">Izmantojiet savu tālruni</String>
+        <String xml:lang="es-ES">Utiliza tu teléfono</String>
+        <String xml:lang="pt-BR">Use seu celular</String>
     </Entry>
 
     <Entry Id="imenu_phone_send_dm">
@@ -3329,6 +3337,8 @@
         <String xml:lang="no-NO">Send melding</String>
         <String xml:lang="fr-FR">Envoyer le message</String>
         <String xml:lang="lv-LV">Nosūtīt tiešo ziņojumu</String>
+        <String xml:lang="es-ES">Enviar un mensaje</String>
+        <String xml:lang="pt-BR">Enviar uma mensagem</String>
     </Entry>
 
     <Entry Id="imenu_phone_send_dm_descr">
@@ -3338,8 +3348,11 @@
         <String xml:lang="fr-FR">Envoyer un MP à un autre joueur</String>
         <String xml:lang="zh-Hant">私訊別的玩家</String>
         <String xml:lang="lv-LV">Nosūtiet tiešo ziņojumu citam spēlētājam</String>
+        <String xml:lang="es-ES">Enviar un DM a otro jugador</String>
+        <String xml:lang="pt-BR">Enviar uma DM para outro jogador</String>
     </Entry>
 
+     <!-- {0} = Player name and id -->
     <Entry Id="imenu_phone_send_dm_input_text">
         <String xml:lang="en-US">Sending a DM to {0}</String>
         <String xml:lang="it-IT">Stai inviando un DM a {0}</String>
@@ -3347,6 +3360,8 @@
         <String xml:lang="fr-FR">Envoi d'un MP à {0}</String>
         <String xml:lang="zh-Hant">私訊給 {0}</String>
         <String xml:lang="lv-LV">Sūtu tiešo ziņojumu spēlētājam {0}</String>
+        <String xml:lang="es-ES">Enviar un DM a {0}</String>
+        <String xml:lang="pt-BR">Enviar uma DM para {0}</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera">
@@ -3356,6 +3371,8 @@
         <String xml:lang="fr-FR">Camera</String>
         <String xml:lang="zh-Hant">鏡頭</String>
         <String xml:lang="lv-LV">Tālrunis</String>
+        <String xml:lang="es-ES">Camara</String>
+        <String xml:lang="pt-BR">Câmera</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera_descr">
@@ -3365,8 +3382,11 @@
         <String xml:lang="fr-FR">Prenez des photos avec votre téléphone</String>
         <String xml:lang="zh-Hant">用你的手機拍照</String>
         <String xml:lang="lv-LV">Fotografējiet ar savu tālruni</String>
+        <String xml:lang="es-ES">Saca una foto con tu Telefono</String>
+        <String xml:lang="pt-BR">Tire uma foto com seu celular</String>
     </Entry>
-
+    
+      <!-- Here we talk about Photography, shoot or, Taking a photo , is not shooting a gun -->
     <Entry Id="imenu_phone_camera_shoot">
         <String xml:lang="en-US">Shoot</String>
         <String xml:lang="it-IT">Scatta</String>
@@ -3374,6 +3394,8 @@
         <String xml:lang="fr-FR">Capturer</String>
         <String xml:lang="zh-Hant">拍攝</String>
         <String xml:lang="lv-LV">Uzņemt</String>
+        <String xml:lang="es-ES">Tomar</String>
+        <String xml:lang="pt-BR">Tirar</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera_flip">
@@ -3383,6 +3405,8 @@
         <String xml:lang="fr-FR">Retourner</String>
         <String xml:lang="zh-Hant">翻轉</String>
         <String xml:lang="lv-LV">Apgriezt</String>
+        <String xml:lang="es-ES">Girar</String>
+        <String xml:lang="pt-BR">Virar</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera_suggestion">
@@ -3392,6 +3416,8 @@
         <String xml:lang="fr-FR">Vous pouvez trouver vos ~y~photos ~s~dans le ~b~Menu Pause ~s~à ~b~Gallerie~s~.</String>
         <String xml:lang="zh-Hant">你可以在~b~ ESC介面 ~s~的~b~ 照片 ~s~欄中找到你的~y~ 照片~s~.</String>
         <String xml:lang="lv-LV">Jūs varat atrast savas ~y~bildes~s~ ~b~Pauzes izvelnē~s~ zem ~b~Gallery~s~.</String>
+        <String xml:lang="es-ES">Puedes encontrar tus ~y~fotos ~s~en ~b~Menú de Pausa~s~, en ~b~Galería</String>
+        <String xml:lang="pt-BR">Você pode encontrar suas ~y~fotos ~s~no ~b~Menu Pausa~s~, em ~b~Galeria</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera_upload">
@@ -3401,6 +3427,8 @@
         <String xml:lang="fr-FR">Poster sur FiveM Snapmatic</String>
         <String xml:lang="zh-Hant">上傳至 FiveM 截圖</String>
         <String xml:lang="lv-LV">Publicēt FiveM Snapmatic</String>
+        <String xml:lang="es-ES">Publicar en FiveM Snapmatic</String>
+        <String xml:lang="pt-BR">Publicar no FiveM Snapmatic</String>
     </Entry>
 
     <Entry Id="imenu_phone_camera_upload_confirm">
@@ -3410,8 +3438,11 @@
         <String xml:lang="fr-FR">Êtes-vous sûr de vouloir poster cette photo sur ~b~{0}~s~?</String>
         <String xml:lang="zh-Hant">你確定要把這張照片放在 ~b~{0}~s~ 上嗎?</String>
         <String xml:lang="lv-LV">Vai tiešām vēlaties publicēt savu bildi ~b~{0}~s~?</String>
+        <String xml:lang="es-ES">¿Estás seguro de que quieres publicar esta foto en ~b~{0}~s~?</String>
+        <String xml:lang="pt-BR">Tem certeza de que deseja publicar essa foto em ~b~{0}~s~?</String>
     </Entry>
 
+     <!-- {0} is Phone Model: !You are now using your Iphone 23Plus Max ! -->
     <Entry Id="imenu_phone_model_changed">
         <String xml:lang="en-US">You are now using your ~y~{0}~s~.</String>
         <String xml:lang="it-IT">Adesso stai usando il tuo ~y~{0}~s~.</String>
@@ -3419,6 +3450,8 @@
         <String xml:lang="fr-FR">Vous utilisez maintenant votre ~y~{0}~s~.</String>
         <String xml:lang="zh-Hant">你正在使用你的 ~y~{0}~s~.</String>
         <String xml:lang="lv-LV">Jūs tagad izmantojat savu ~y~{0}~s~.</String>
+        <String xml:lang="es-ES">Ahora estás usando tu ~y~{0}~s~.</String>
+        <String xml:lang="pt-BR">Agora você está usando seu ~y~{0}~s~.</String>
     </Entry>
 
     <Entry Id="imenu_phone_case_changed">
@@ -3428,6 +3461,8 @@
         <String xml:lang="fr-FR">Vous utilisez maintenant ~y~{0} ~s~comme votre coque de téléphone.</String>
         <String xml:lang="zh-Hant">你把你的手機殼換成了 ~y~{0}~s~.</String>
         <String xml:lang="lv-LV">Jūs tagad izmantojat ~y~{0}~s~ kā sava tālruņa maciņu.</String>
+        <String xml:lang="es-ES">Ahora utilizas ~y~{0} ~s~como funda para tu telefono</String>
+        <String xml:lang="pt-BR">Agora você está usando o ~y~{0} ~s~como capa para seu telefone</String>
     </Entry>
 
     <Entry Id="imenu_phone_case_removed">
@@ -3437,6 +3472,8 @@
         <String xml:lang="fr-FR">Vous avez ~r~retiré ~s~votre coque de téléphone.</String>
         <String xml:lang="zh-Hant">你 ~r~移除~s~ 了你的手機殼.</String>
         <String xml:lang="lv-LV">Jūs esat ~r~noņemāt~s~ sava tālruņa maciņu.</String>
+        <String xml:lang="es-ES">Usted ha ~r~removido ~s~su funda de teléfono.</String>
+        <String xml:lang="pt-BR">Você ~r~removeu ~s~sua capa de telefone.</String>
     </Entry>
 
     <Entry Id="imenu_phone_case_no_phone">
@@ -3446,6 +3483,8 @@
         <String xml:lang="fr-FR">Vous devez sélectionner un ~y~téléphone ~s~avant de sélectionner une coque.</String>
         <String xml:lang="zh-Hant">你需要先選擇一台 ~y~手機~s~ 在選擇手機殼.</String>
         <String xml:lang="lv-LV">Pirms maciņa izvēles jums jāizvēlas ~y~tālrunis~s~.</String>
+        <String xml:lang="es-ES">Debe seleccionar un ~y~teléfono ~s~antes de seleccionar una funda</String>
+        <String xml:lang="pt-BR">Você deve selecionar um ~y~telefone ~s~antes de selecionar uma capa</String>
     </Entry>
 
     <Entry Id="imenu_phone_case_type_mismatch">
@@ -3455,6 +3494,8 @@
         <String xml:lang="fr-FR">Cette coque n'est pas~r~compatible ~s~avec votre téléphone actuel.</String>
         <String xml:lang="zh-Hant">此手機殼與你的手機並不 ~r~相容~s~.</String>
         <String xml:lang="lv-LV">Šis maciņš nav ~r~saderīgs~s~ ar jūsu pašreizējo tālruni.</String>
+        <String xml:lang="es-ES">Esta funda no es compatible con tu teléfono actual</String>
+        <String xml:lang="pt-BR">Esta capa não é compatível com seu telefone atual.</String>
     </Entry>
 
     <Entry Id="imenu_party">
@@ -3464,6 +3505,8 @@
         <String xml:lang="fr-FR">Groupe</String>
         <String xml:lang="zh-Hant">駔對</String>
         <String xml:lang="lv-LV">Komanda</String>
+        <String xml:lang="es-ES">Grupo</String>
+        <String xml:lang="pt-BR">Grupo</String>
     </Entry>
 
     <Entry Id="imenu_party_descr">
@@ -3473,6 +3516,8 @@
         <String xml:lang="fr-FR">Voyez et gérez votre groupe</String>
         <String xml:lang="zh-Hant">查看並調整你的隊伍</String>
         <String xml:lang="lv-LV">Skatiet un pārvaldiet savu komandu</String>
+        <String xml:lang="es-ES">Ver y gestionar tu grupo</String>
+        <String xml:lang="pt-BR">Visualize e gerencie seu grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_list">
@@ -3482,6 +3527,8 @@
         <String xml:lang="fr-FR">Liste des membres</String>
         <String xml:lang="zh-Hant">成員清單</String>
         <String xml:lang="lv-LV">Dalībnieku saraksts</String>
+        <String xml:lang="es-ES">Lista de miembros</String>
+        <String xml:lang="pt-BR">Lista de membros</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_list_desc">
@@ -3491,6 +3538,8 @@
         <String xml:lang="fr-FR">Voyez la liste des joueurs du groupe</String>
         <String xml:lang="zh-Hant">查看隊伍內的成員</String>
         <String xml:lang="lv-LV">Skatīt grupas dalībnieku sarakstu</String>
+        <String xml:lang="es-ES">Ver una lista de los miembros de la grupo</String>
+        <String xml:lang="pt-BR">Exibir uma lista de membros da grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_list_label">
@@ -3500,6 +3549,8 @@
         <String xml:lang="fr-FR">{0} membres</String>
         <String xml:lang="zh-Hant">{0} 個成員</String>
         <String xml:lang="lv-LV">{0} dalībnieki</String>
+        <String xml:lang="es-ES">{0} miembros</String>
+        <String xml:lang="pt-BR">{0} membros</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_create">
@@ -3509,6 +3560,8 @@
         <String xml:lang="fr-FR">Créer</String>
         <String xml:lang="zh-Hant">創建</String>
         <String xml:lang="lv-LV">Izveidot</String>
+        <String xml:lang="es-ES">Crear</String>
+        <String xml:lang="pt-BR">Criar</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_create_desc">
@@ -3518,6 +3571,8 @@
         <String xml:lang="fr-FR">Créez un nouveau groupe temporaire de joueurs</String>
         <String xml:lang="zh-Hant">創建一個新的臨時隊伍</String>
         <String xml:lang="lv-LV">Izveidojiet jaunu pagaidu spēlētāju grupu</String>
+        <String xml:lang="es-ES">Crear un nuevo grupo temporal de jugadores</String>
+        <String xml:lang="pt-BR">Criar um novo grupo temporário de jogadores</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_join">
@@ -3527,6 +3582,8 @@
         <String xml:lang="fr-FR">Rejoindre</String>
         <String xml:lang="zh-Hant">加入</String>
         <String xml:lang="lv-LV">Pievienoties</String>
+        <String xml:lang="es-ES">Unirse</String>
+        <String xml:lang="pt-BR">Participar</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_join_desc">
@@ -3536,6 +3593,8 @@
         <String xml:lang="fr-FR">Rejoignez un groupe existant</String>
         <String xml:lang="zh-Hant">加入一個隊伍</String>
         <String xml:lang="lv-LV">Pievienojieties esošai komandai</String>
+        <String xml:lang="es-ES">Unirse a un grupo existente</String>
+        <String xml:lang="pt-BR">Participe de uma grupo existente</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_invite">
@@ -3545,6 +3604,8 @@
         <String xml:lang="fr-FR">Inviter</String>
         <String xml:lang="zh-Hant">邀請</String>
         <String xml:lang="lv-LV">Pieaicināt</String>
+        <String xml:lang="es-ES">Invita</String>
+        <String xml:lang="pt-BR">Convide</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_invite_desc">
@@ -3554,6 +3615,8 @@
         <String xml:lang="fr-FR">Invitez un joueur à rejoindre votre groupe</String>
         <String xml:lang="zh-Hant">邀請一位玩家至你的組隊.</String>
         <String xml:lang="lv-LV">Uzaiciniet spēlētāju uz savu komandu</String>
+        <String xml:lang="es-ES">Invita a un jugador a tu grupo</String>
+        <String xml:lang="pt-BR">Convide um jogador para sua grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_sendgps">
@@ -3562,6 +3625,8 @@
         <String xml:lang="no-NO">Send plassering</String>
         <String xml:lang="fr-FR">Envoyer votre position GPS</String>
         <String xml:lang="lv-LV">Nosūtīt atrašanas vietu</String>
+        <String xml:lang="es-ES">Enviar ubicación</String>
+        <String xml:lang="pt-BR">Enviar localização</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_sendgps_desc">
@@ -3570,6 +3635,8 @@
         <String xml:lang="no-NO">Send din nåværende plassering til alle partimedlemmene</String>
         <String xml:lang="fr-FR">Envoyez votre position GPS à tout les membres du groupe</String>
         <String xml:lang="lv-LV">Nosūtiet savu pašreizējo atrašanās vietu visiem komandas dalībniekiem</String>
+        <String xml:lang="es-ES">Envía tu ubicación actual a todos los miembros del grupo</String>
+        <String xml:lang="pt-BR">Enviar sua localização atual para todos os membros do grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_sendwp">
@@ -3578,6 +3645,8 @@
         <String xml:lang="no-NO">Send veipunkt</String>
         <String xml:lang="fr-FR">Envoyer un point de repère</String>
         <String xml:lang="lv-LV">Nosūtīt waypoint</String>
+        <String xml:lang="es-ES">Enviar waypoint</String>
+        <String xml:lang="pt-BR">Enviar ponto de referência</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_sendwp_desc">
@@ -3586,6 +3655,8 @@
         <String xml:lang="no-NO">Send veipunktet ditt til alle partimedlemmene</String>
         <String xml:lang="fr-FR">Envoyez votre point de repère à tout les joueurs du groupe</String>
         <String xml:lang="lv-LV">Nosūtiet savu waypoint visiem komandas dalībniekiem</String>
+        <String xml:lang="es-ES">Envía tu waypoint a todos los miembros del grupo</String>
+        <String xml:lang="pt-BR">Enviar seu ponto de referência para todos os membros do grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_kick">
@@ -3594,6 +3665,8 @@
         <String xml:lang="no-NO">~o~Kick</String>
         <String xml:lang="fr-FR">~o~Exclure</String>
         <String xml:lang="lv-LV">~o~Izmest</String>
+        <String xml:lang="es-ES">Expulsar</String>
+        <String xml:lang="pt-BR">Expulsar</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_kick_desc">
@@ -3602,6 +3675,8 @@
         <String xml:lang="no-NO">Sparke en spiller fra festen</String>
         <String xml:lang="fr-FR">Excluez un joueur du groupe</String>
         <String xml:lang="lv-LV">Izmest spēlētāju no komandas</String>
+        <String xml:lang="es-ES">Expulsar a un jugador del grupo</String>
+        <String xml:lang="pt-BR">Expulsar um jogador do grupo</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_leader">
@@ -3610,6 +3685,8 @@
         <String xml:lang="no-NO">~o~Overfør lederskap</String>
         <String xml:lang="fr-FR">~o~Transfert d'autorité</String>
         <String xml:lang="lv-LV">~o~Nodot vadību</String>
+        <String xml:lang="es-ES">~o~Transferir liderazgo</String>
+        <String xml:lang="pt-BR">~o~Transferência de liderança</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_leader_desc">
@@ -3618,6 +3695,8 @@
         <String xml:lang="no-NO">Overfør lederrollen til noen andre</String>
         <String xml:lang="fr-FR">Transférer le rôle de Chef à quelqu'un d'autre</String>
         <String xml:lang="lv-LV">Nodot komandas vadību kādam citam</String>
+        <String xml:lang="es-ES">Transferir el papel de líder a otra persona</String>
+        <String xml:lang="pt-BR">Transferência da função de liderança para outra pessoa</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_leave">
@@ -3626,6 +3705,8 @@
         <String xml:lang="no-NO">~r~Forlat</String>
         <String xml:lang="fr-FR">~r~Quitter</String>
         <String xml:lang="lv-LV">~r~Pamest</String>
+        <String xml:lang="es-ES">Salir</String>
+        <String xml:lang="pt-BR">Salir</String>
     </Entry>
 
     <Entry Id="imenu_phone_party_leave_desc">
@@ -3634,6 +3715,8 @@
         <String xml:lang="no-NO">Forlat din nåværende party</String>
         <String xml:lang="fr-FR">Quittez votre groupe actuel</String>
         <String xml:lang="lv-LV">Pametiet savu pašreizējo komandu</String>
+        <String xml:lang="es-ES">Abandona la party actual</String>
+        <String xml:lang="pt-BR">Sair do grupo atual</String>
     </Entry>
 
     <Entry Id="imenu_services_weapons_text">
