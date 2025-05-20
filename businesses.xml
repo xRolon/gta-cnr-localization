@@ -46,11 +46,15 @@
     <Entry Id="menu_business_cash">
         <String xml:lang="en-US">Cash payments only</String>
         <String xml:lang="it-IT">Solo pagamenti in contanti</String>
+        <String xml:lang="es-ES">Sólo pagos en efectivo</String>
+        <String xml:lang="pt-BR">Somente pagamentos em dinheiro</String>
     </Entry>
 
     <Entry Id="menu_business_cashless">
         <String xml:lang="en-US">Cashless payments only</String>
         <String xml:lang="it-IT">Solo pagamenti senza contanti</String>
+        <String xml:lang="es-ES">Sólo pagos sin efectivo</String>
+        <String xml:lang="pt-BR">Somente pagamentos sem dinheiro</String>
     </Entry>
 
     <!-- ========================= -->
@@ -63,6 +67,8 @@
         <String xml:lang="fr-FR">Épicerie</String>
         <String xml:lang="zh-Hant">便利超商</String>
         <String xml:lang="lv-LV">Pārtikas veikals</String>
+        <String xml:lang="es-ES">Tienda de conveniencia</String>
+        <String xml:lang="pt-BR">Loja de conveniência</String>
     </Entry>
     
     <Entry Id="business_clothes">
@@ -72,6 +78,8 @@
         <String xml:lang="fr-FR">Magasin de vêtements</String>
         <String xml:lang="zh-Hant">服飾館</String>
         <String xml:lang="lv-LV">Apģērbu veikals</String>
+        <String xml:lang="es-ES">Tienda de ropa</String>
+        <String xml:lang="pt-BR">Loja de roupas</String>
     </Entry>
     
     <Entry Id="business_gun_store">
@@ -81,6 +89,8 @@
         <String xml:lang="fr-FR">Magasin d'Armes</String>
         <String xml:lang="zh-Hant">槍店</String>
         <String xml:lang="lv-LV">Ieroču veikals</String>
+        <String xml:lang="es-ES">Tienda de armas</String>
+        <String xml:lang="pt-BR">Loja de armas</String>
     </Entry>
     
     <Entry Id="business_gun_club">
@@ -90,6 +100,8 @@
         <String xml:lang="fr-FR">Club de Tir</String>
         <String xml:lang="zh-Hant">槍械俱樂部</String>
         <String xml:lang="lv-LV">Ieroču klubs</String>
+        <String xml:lang="es-ES">Club de Armas</String>
+        <String xml:lang="pt-BR">Clube de Armas</String>
     </Entry>
     
     <Entry Id="business_bank">
@@ -99,6 +111,8 @@
         <String xml:lang="fr-FR">Banque</String>
         <String xml:lang="zh-Hant">銀行</String>
         <String xml:lang="lv-LV">Banka</String>
+        <String xml:lang="es-ES">Banco</String>
+        <String xml:lang="pt-BR">Banco</String>
     </Entry>
     
     <Entry Id="business_jewelry">
@@ -108,6 +122,8 @@
         <String xml:lang="fr-FR">Bijouterie</String>
         <String xml:lang="zh-Hant">珠寶店</String>
         <String xml:lang="lv-LV">Juvelierizstrādājumu Veikals</String>
+        <String xml:lang="es-ES">Joyería</String>
+        <String xml:lang="pt-BR">Joalheria</String>
     </Entry>
     
     <Entry Id="business_liquor">
@@ -117,6 +133,8 @@
         <String xml:lang="fr-FR">Magasin d'alcools</String>
         <String xml:lang="zh-Hant">酒精專賣商</String>
         <String xml:lang="lv-LV">Alkoholisko dzērienu veikals</String>
+        <String xml:lang="es-ES">Licorería</String>
+        <String xml:lang="pt-BR">Loja de bebidas Felices</String>
     </Entry>
     
     <Entry Id="business_club">
@@ -126,6 +144,8 @@
         <String xml:lang="fr-FR">Club</String>
         <String xml:lang="zh-Hant">俱樂部</String>
         <String xml:lang="lv-LV">Klubs</String>
+        <String xml:lang="es-ES">Club</String>
+        <String xml:lang="pt-BR">Clube</String>
     </Entry>
     
     <Entry Id="business_coffee">
@@ -135,6 +155,8 @@
         <String xml:lang="fr-FR">Café</String>
         <String xml:lang="zh-Hant">咖啡店</String>
         <String xml:lang="lv-LV">Kafejnīca</String>
+        <String xml:lang="es-ES">Cafetería</String>
+        <String xml:lang="pt-BR">Cafeteria</String>
     </Entry>
     
     <Entry Id="business_restaurant">
@@ -144,6 +166,8 @@
         <String xml:lang="fr-FR">Restaurant</String>
         <String xml:lang="zh-Hant">餐廳</String>
         <String xml:lang="lv-LV">Restorāns</String>
+        <String xml:lang="es-ES">Restaurante</String>
+        <String xml:lang="pt-BR">Restaurante</String>
     </Entry>
     
     <Entry Id="business_fast_food">
@@ -153,6 +177,8 @@
         <String xml:lang="fr-FR">Fast Food</String>
         <String xml:lang="zh-Hant">速食</String>
         <String xml:lang="lv-LV">Ātrās ēdināšanas restorāns</String>
+        <String xml:lang="es-ES">Comida rápida</String>
+        <String xml:lang="pt-BR">Fast Food</String>
     </Entry>
     
     <Entry Id="business_electronics">
@@ -162,6 +188,8 @@
         <String xml:lang="fr-FR">Magasin d'électronique</String>
         <String xml:lang="zh-Hant">電子商場</String>
         <String xml:lang="lv-LV">Elektronikas veikals</String>
+        <String xml:lang="es-ES">Tienda de electrónica</String>
+        <String xml:lang="pt-BR">Loja de produtos eletrônicos</String>
     </Entry>
     
     <Entry Id="business_barber">
@@ -171,6 +199,8 @@
         <String xml:lang="fr-FR">Coiffeur</String>
         <String xml:lang="zh-Hant">理髮廳</String>
         <String xml:lang="lv-LV">Frizētava</String>
+        <String xml:lang="es-ES">Barberia</String>
+        <String xml:lang="pt-BR">Barbeiro</String>
     </Entry>
     
     <Entry Id="business_tattoo">
@@ -180,6 +210,8 @@
         <String xml:lang="fr-FR">Salon de Tatouage</String>
         <String xml:lang="zh-Hant">紋身店</String>
         <String xml:lang="lv-LV">Tetovēšanas salons</String>
+        <String xml:lang="es-ES">Tienda de tatuajes</String>
+        <String xml:lang="pt-BR">Loja de tatuagem</String>
     </Entry>
     
     <Entry Id="business_hacker">
@@ -189,6 +221,8 @@
         <String xml:lang="fr-FR">Maison de Lester</String>
         <String xml:lang="zh-Hant">萊斯特的家</String>
         <String xml:lang="lv-LV">Lestera māja</String>
+        <String xml:lang="es-ES">Casa de Lester</String>
+        <String xml:lang="pt-BR">Casa de Lester</String>
     </Entry>
     
     <Entry Id="business_factory">
@@ -198,6 +232,8 @@
         <String xml:lang="fr-FR">Usine de Lester</String>
         <String xml:lang="zh-Hant">萊斯特的工廠</String>
         <String xml:lang="lv-LV">Lestera fabrika</String>
+        <String xml:lang="es-ES">Frabrica de Lester</String>
+        <String xml:lang="pt-BR">Fábrica de Lester</String>
     </Entry>
     
     <Entry Id="business_cayo">
@@ -207,6 +243,8 @@
         <String xml:lang="fr-FR">Magasin de Cayo Perico</String>
         <String xml:lang="zh-Hant">佩里客島商店</String>
         <String xml:lang="lv-LV">Cayo Perico Veikals</String>
+        <String xml:lang="es-ES">Tienda de Cayo Perico</String>
+        <String xml:lang="pt-BR">Loja do Cayo Perico</String>
     </Entry>
     
     <Entry Id="business_hardware">
@@ -216,6 +254,8 @@
         <String xml:lang="fr-FR">Magasin de Bricolage</String>
         <String xml:lang="zh-Hant">五金店</String>
         <String xml:lang="lv-LV">Hardware Veikals</String>
+        <String xml:lang="es-ES">Ferretería</String>
+        <String xml:lang="pt-BR">Ferragens</String>
     </Entry>
     
     <Entry Id="business_gun_supplier">
@@ -225,6 +265,8 @@
         <String xml:lang="fr-FR">Vendeur d'Armes</String>
         <String xml:lang="zh-Hant">槍械供應商</String>
         <String xml:lang="lv-LV">Ieroču Piegādātājs</String>
+        <String xml:lang="es-ES">Proveedor de armas</String>
+        <String xml:lang="pt-BR">Fornecedor de armas</String>
     </Entry>
     
     <Entry Id="business_drug_supplier">
@@ -234,6 +276,8 @@
         <String xml:lang="fr-FR">Distributeur de drogue</String>
         <String xml:lang="zh-Hant">藥頭</String>
         <String xml:lang="lv-LV">Narkotiku Piegādātājs</String>
+        <String xml:lang="es-ES">Proveedor de Caramelitos</String>
+        <String xml:lang="pt-BR">Fornecedor de Droga</String>
     </Entry>
     
     <Entry Id="business_pd">
@@ -243,6 +287,8 @@
         <String xml:lang="fr-FR">Commissariat</String>
         <String xml:lang="zh-Hant">警察局</String>
         <String xml:lang="lv-LV">Policijas iecirknis</String>
+        <String xml:lang="es-ES">Comisaria</String>
+        <String xml:lang="pt-BR">Delegacia de polícia</String>
     </Entry>
     
     <Entry Id="business_armory">
@@ -252,6 +298,8 @@
         <String xml:lang="fr-FR">Armurerie</String>
         <String xml:lang="zh-Hant">軍火商</String>
         <String xml:lang="lv-LV">Arsenāls</String>
+        <String xml:lang="es-ES">Armería</String>
+        <String xml:lang="pt-BR">Arsenal</String>
     </Entry>
     
     <Entry Id="business_hospital">
@@ -262,6 +310,8 @@
         <String xml:lang="nl-NL">Ziekenhuis</String>
         <String xml:lang="zh-Hant">醫院</String>
         <String xml:lang="lv-LV">Slimnīca</String>
+        <String xml:lang="es-ES">Hospital</String>
+        <String xml:lang="pt-BR">Hospital</String>
     </Entry>
     
     <!-- it's the shop inside of pillbox but just make it say "shop" -->
@@ -273,7 +323,9 @@
         <String xml:lang="nl-NL">Shop</String>
         <String xml:lang="zh-Hant">商店</String>
         <String xml:lang="lv-LV">Veikals</String>
-    </Entry>
+        <String xml:lang="es-ES">Tienda</String>
+        <String xml:lang="pt-BR">Loja</String>
+    </Entry>    
     
     <Entry Id="business_pawn">
         <String xml:lang="en-US">Pawn Shop</String>
@@ -283,6 +335,8 @@
         <String xml:lang="nl-NL">Pandjeshuis</String>
         <String xml:lang="zh-Hant">當舖</String>
         <String xml:lang="lv-LV">Lombards</String>
+        <String xml:lang="es-ES">Casa de empeño</String>
+        <String xml:lang="pt-BR">Loja de penhores</String>
     </Entry>
     
     <Entry Id="business_delivery">
@@ -293,6 +347,8 @@
         <String xml:lang="nl-NL">Transport Bedrijf</String>
         <String xml:lang="zh-Hant">運送公司</String>
         <String xml:lang="lv-LV">Piegāžu Kompānija</String>
+        <String xml:lang="es-ES">Empresa de reparto</String>
+        <String xml:lang="pt-BR">Empresa de entrega</String>
     </Entry>
     
     <Entry Id="business_hitman">
@@ -303,6 +359,8 @@
         <String xml:lang="nl-NL">Huurmoordenaar</String>
         <String xml:lang="zh-Hant">殺手</String>
         <String xml:lang="lv-LV">Killers</String>
+        <String xml:lang="es-ES">Sicario</String>
+        <String xml:lang="pt-BR">Sicário</String>
     </Entry>
     
     <Entry Id="business_weed">
@@ -313,6 +371,8 @@
         <String xml:lang="nl-NL">Coffeeshop</String>
         <String xml:lang="zh-Hant">大麻藥局</String>
         <String xml:lang="lv-LV">Narkotiku Veikals</String>
+        <String xml:lang="es-ES">Dispensador de Pasto Feliz</String>
+        <String xml:lang="pt-BR">dispensador de Macona</String>
     </Entry>
     
     <Entry Id="business_university">
@@ -323,6 +383,8 @@
         <String xml:lang="nl-NL">Universiteit</String>
         <String xml:lang="zh-Hant">大學</String>
         <String xml:lang="lv-LV">Universitāte</String>
+        <String xml:lang="es-ES">Universidad</String>
+        <String xml:lang="pt-BR">Universidade</String>
     </Entry>
     
     <Entry Id="business_dealership">
@@ -333,6 +395,8 @@
         <String xml:lang="nl-NL">Dealership</String>
         <String xml:lang="zh-Hant">經銷商</String>
         <String xml:lang="lv-LV">Dīlercentrs</String>
+        <String xml:lang="es-ES">Concesionario</String>
+        <String xml:lang="pt-BR">Concessionária de automóveis</String>
     </Entry>
     
     <Entry Id="business_mechanic">
@@ -343,6 +407,8 @@
         <String xml:lang="nl-NL">Automonteur</String>
         <String xml:lang="zh-Hant">修車工</String>
         <String xml:lang="lv-LV">Mehāniķis</String>
+        <String xml:lang="es-ES">Mecánico</String>
+        <String xml:lang="pt-BR">Mecânico</String>
     </Entry>
     
     <Entry Id="business_mall">
@@ -353,12 +419,16 @@
         <String xml:lang="nl-NL">Winkelcentrum</String>
         <String xml:lang="zh-Hant">百貨公司</String>
         <String xml:lang="lv-LV">Tirdzniecības Centrs</String>
+        <String xml:lang="es-ES">Centro comercial</String>
+        <String xml:lang="pt-BR">Shopping center</String>
     </Entry>
 
     <Entry Id="business_gas_station">
         <String xml:lang="en-US">Gas Station</String>
         <String xml:lang="it-IT">Benzinaio</String>
         <String xml:lang="id-ID">Pom Bensin</String>
+        <String xml:lang="es-ES">Gasolinera</String>
+        <String xml:lang="pt-BR">Posto de gasolina</String>
     </Entry>
 
     <!-- ========================= -->
@@ -477,6 +547,8 @@
         <String xml:lang="no-NO">Rotere</String>
         <String xml:lang="fr-FR">Tourner</String>
         <String xml:lang="lv-LV">Pagriezt</String>
+        <String xml:lang="es-ES">Girar</String>
+        <String xml:lang="pt-BR">Virar</String>
     </Entry>
 
     <!-- ========================= -->
@@ -534,6 +606,8 @@
         <String xml:lang="no-NO">STJÅLET</String>
         <String xml:lang="fr-FR">VOLÉ</String>
         <String xml:lang="lv-LV">NOZAGTS</String>
+        <String xml:lang="es-ES">ROBADO</String>
+        <String xml:lang="pt-BR">ROBADO</String>
     </Entry>
 
     <!-- Shows up in yellow for newly added items -->
@@ -606,18 +680,24 @@
     <Entry Id="item_attribute_on_sale">
         <String xml:lang="en-US">ON SALE!</String>
         <String xml:lang="it-IT">IN SCONTO!</String>
+        <String xml:lang="es-ES">¡EN OFERTA!</String>
+        <String xml:lang="pt-BR">EM PROMOÇÃO!</String>
     </Entry>
 
     <!-- Shows up in green for categories that contain items for sale -->
     <Entry Id="cat_attribute_sales">
         <String xml:lang="en-US">SALES!</String>
         <String xml:lang="it-IT">SCONTI!</String>
+        <String xml:lang="es-ES">¡OFERTAS!</String>
+        <String xml:lang="pt-BR">Promoções!</String>
     </Entry>
 
     <!--  -->
     <Entry Id="cat_attribute_multiple_sales">
         <String xml:lang="en-US">Multiple Sales!</String>
         <String xml:lang="it-IT">Sconti Multipli!</String>
+        <String xml:lang="es-ES">¡Múltiples ofertas!</String>
+        <String xml:lang="pt-BR">Várias promoções!</String>
     </Entry>
 
     <!-- Shows the details of an item that is on sale -->
@@ -628,6 +708,8 @@
     <Entry Id="item_sale_descr">
         <String xml:lang="en-US">{0}: {1}% OFF until {2}!</String>
         <String xml:lang="it-IT">{0}: {1}% di sconto fino al {2}!</String>
+        <String xml:lang="es-ES">{0}: {1}% DESCUENTO asta {2}!</String>
+        <String xml:lang="pt-BR">{0}: {1}% DESCONTO até {2}!</String>
     </Entry>
 
     <!-- Shows up in yellow in the description of uncommon items -->
@@ -2899,6 +2981,8 @@
         <String xml:lang="fr-FR">~o~Seulement {0} en inventaire</String>
         <String xml:lang="lv-LV">~o~Tikai {0} noliktavā</String>
         <String xml:lang="id-ID">~o~Hanya {0} dalam stok</String>
+        <String xml:lang="es-ES">~r~Sólo {0} en stock.</String>
+        <String xml:lang="pt-BR">~r~Somente {0} em estoque.</String>
     </Entry>
 
     <!-- {0} = Amount in stock -->
@@ -2908,6 +2992,8 @@
         <String xml:lang="fr-FR">~g~{0} en inventaire</String>
         <String xml:lang="lv-LV">~g~{0} noliktavā</String>
         <String xml:lang="id-ID">~g~{0} dalam stok</String>
+        <String xml:lang="es-ES">~g~{0} en stock.</String>
+        <String xml:lang="pt-BR">~g~{0} em estoque.</String>
     </Entry>
 
     <!-- It shows in the menu to sell items to players (for example if you are a drug dealer, doctor or arms dealer)-->
@@ -4258,36 +4344,48 @@
         <String xml:lang="en-US">~r~You can only charge electric vehicles here.</String>
         <String xml:lang="it-IT">~r~Qui puoi ricaricare solo i veicoli elettrici.</String>
         <String xml:lang="id-ID">~r~Kamu hanya bisa mengisi kendaraan listrik disini.</String>
+        <String xml:lang="es-ES">~r~Aquí sólo se pueden cargar vehículos eléctricos.</String>
+        <String xml:lang="pt-BR">~r~Somente veículos elétricos podem ser carregados aqui.</String>
     </Entry>
 
     <Entry Id="gas_station_no_evs">
         <String xml:lang="en-US">~r~You can't charge your electric vehicle here. Use an EV charger instead.</String>
         <String xml:lang="it-IT">~r~Non puoi caricare il tuo veicolo elettrico qui. Usa un caricatore per veicoli elettrici.</String>
         <String xml:lang="id-ID">~r~kamu tidak bisa mengisi kendaraan listrikmu disini. Gunakan charger EV.</String>
+        <String xml:lang="es-ES">~r~Aquí no puedes cargar tu vehículo eléctrico. Utilice un cargador EV en su lugar.</String>
+        <String xml:lang="pt-BR">~r~Não é possível carregar seu veículo elétrico aqui. Em vez disso, use um carregador EV.</String>
     </Entry>
 
     <Entry Id="gas_station_charge_battery">
         <String xml:lang="en-US">Charge your battery</String>
         <String xml:lang="it-IT">Carica la batteria</String>
         <String xml:lang="id-ID">Isi ulang bateraimu</String>
+        <String xml:lang="es-ES">~r~You can only charge electric vehicles here.</String>
+        <String xml:lang="pt-BR">~r~You can only charge electric vehicles here.</String>
     </Entry>
 
     <Entry Id="gas_station_fill_tank">
         <String xml:lang="en-US">Fill up your tank</String>
         <String xml:lang="it-IT">Riempi il serbatoio</String>
         <String xml:lang="id-ID">Isi ulang bensinmu</String>
+        <String xml:lang="es-ES">Carga la batería</String>
+        <String xml:lang="pt-BR">Carregue a bateria.</String>
     </Entry>
 
     <Entry Id="gas_station_fill_jerrycan">
         <String xml:lang="en-US">Fill up your jerrycan</String>
         <String xml:lang="it-IT">Riempi la tanica</String>
         <String xml:lang="id-ID">Isi ulang jerigenmu</String>
+        <String xml:lang="es-ES">Llena el bidón.</String>
+        <String xml:lang="pt-BR">Encha a lata</String>
     </Entry>
 
     <Entry Id="gas_station_error_no_jerrycan">
         <String xml:lang="en-US">~r~You don't have a jerrycan</String>
         <String xml:lang="it-IT">~r~Non hai una tanica</String>
         <String xml:lang="id-ID">~r~Kamu tidak punya jerigen</String>
+        <String xml:lang="es-ES">~r~No tienes un bidón.</String>
+        <String xml:lang="pt-BR">~r~Você não tem a lata.</String>
     </Entry>
 
     <!-- nullnull{0} = Label (for example: Offer) -->
@@ -4331,11 +4429,15 @@
     <Entry Id="menu_store_sell_items">
         <String xml:lang="en-US">Sell Items</String>
         <String xml:lang="it-IT">Vendi oggetti</String>
+        <String xml:lang="es-ES">Vender articulos.</String>
+        <String xml:lang="pt-BR">Vender items</String>
     </Entry>
 
     <Entry Id="menu_store_sell_items_desc">
         <String xml:lang="en-US">Sell your ~b~items ~s~to the store.</String>
         <String xml:lang="it-IT">Vendi i tuoi ~b~oggetti ~s~al negozio.</String>
+        <String xml:lang="es-ES">Vende tus ~b~artículos~s~ a la tienda.</String>
+        <String xml:lang="pt-BR">Venda seus ~b~items~s~ para a loja.</String>
     </Entry>
 
     <!-- {0} = Amount -->
@@ -4344,6 +4446,8 @@
     <Entry Id="menu_store_sell_for">
         <String xml:lang="en-US">Sell {0} for ~g~{1}</String>
         <String xml:lang="it-IT">Vendi {0} per ~g~{1}</String>
+        <String xml:lang="es-ES">Vender {0} por ~g~{1}</String>
+        <String xml:lang="pt-BR">Venda {0} por ~g~{1}</String>
     </Entry>
 
     <Entry Id="menu_store_no_items_sell_desc">
@@ -4351,6 +4455,8 @@
         <String xml:lang="no-NO">Du har ingen varer denne bedriften ønsker å kjøpe.</String>
         <String xml:lang="fr-FR">Vous n'avez aucun objet que cet entreprise souhaite acheter.</String>
         <String xml:lang="lv-LV">Jums nav nevienas preces, ko šis uzņēmums vēlētos iegādāties.</String>
+        <String xml:lang="es-ES">Usted no tiene ningún artículo que este negocio quiere comprar</String>
+        <String xml:lang="pt-BR">Você não tem nenhum item que esta empresa queira comprar</String>
     </Entry>
 
     <Entry Id="item_attribute_remove_for">
@@ -4358,25 +4464,35 @@
         <String xml:lang="no-NO">Fjern for {0}</String>
         <String xml:lang="fr-FR">Retirer pour {0}</String>
         <String xml:lang="lv-LV">Noņemt par {0}</String>
+        <String xml:lang="es-ES">Retirar por {0}</String>
+        <String xml:lang="pt-BR">Retirar até {0}.</String>
     </Entry>
     
     <Entry Id="shop_error_no_space">
         <String xml:lang="en-US">You don't have enough space in your inventory!</String>
         <String xml:lang="it-IT">Non hai abbastanza spazio nel tuo inventario!</String>
+        <String xml:lang="es-ES">No tienes suficiente espacio en tu inventario.</String>
+        <String xml:lang="pt-BR">Você não tem espaço suficiente em seu inventário.</String>
     </Entry>
     
     <Entry Id="shop_error_already_owned">
         <String xml:lang="en-US">You already have this item.</String>
         <String xml:lang="it-IT">Già possiedi questo articolo.</String>
+        <String xml:lang="es-ES">Ya tienes este artículo.</String>
+        <String xml:lang="pt-BR">Você já tem esse item.</String>
     </Entry>
     
     <Entry Id="shop_error_insufficient_level">
         <String xml:lang="en-US">You don't have the required level to buy this item!</String>
         <String xml:lang="it-IT">Non hai il livello necessario per acquistare questo articolo!</String>
+        <String xml:lang="es-ES">No tienes el nivel necesario para comprar este artículo.</String>
+        <String xml:lang="pt-BR">Você não tem o nível necessário para comprar esse item.</String>
     </Entry>
     
     <Entry Id="shop_error_insufficient_membership">
         <String xml:lang="en-US">This item is reserved for premium members.</String>
         <String xml:lang="it-IT">Questo articolo è riservato per i membri premium.</String>
+        <String xml:lang="es-ES">Este artículo está reservado a los miembros Premium.</String>
+        <String xml:lang="pt-BR">Este item é reservado para membros Premium.</String>
     </Entry>
 </Entries>
