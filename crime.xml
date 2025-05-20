@@ -68,12 +68,16 @@
         <String xml:lang="en-US">Crime</String>
         <String xml:lang="it-IT">Reato</String>
         <String xml:lang="id-ID">Kejahatan</String>
+        <String xml:lang="es-ES">Crimen</String>
+        <String xml:lang="pt-BR">Crime</String>
     </Entry>
 
     <Entry Id="crime_severity_misdemeanor">
         <String xml:lang="en-US">Misdemeanor</String>
         <String xml:lang="it-IT">Contravvenzione</String>
         <String xml:lang="id-ID">Kejahatan ringan</String>
+        <String xml:lang="es-ES">Delito menor</String>
+        <String xml:lang="pt-BR">Contravenção</String>
     </Entry>
 
     <Entry Id="crime_severity_felony">
@@ -116,6 +120,8 @@
         <String xml:lang="en-US">violent {0}</String>
         <String xml:lang="it-IT">{0} violento</String>
         <String xml:lang="id-ID">Kekerasan {0}</String>
+        <String xml:lang="es-ES">violento {0}</String>
+        <String xml:lang="pt-BR">violento {0}</String>
     </Entry>
 
     <!-- ========================= -->
@@ -125,248 +131,330 @@
 
     <Entry Id="crime_hit_n_run">
         <String xml:lang="en-US">Hit and Run</String>
-        <String xml:lang="it-IT">Investimento con fuga</String>
+        <String xml:lang="it-IT">Omissione di soccorso</String>
         <String xml:lang="id-ID">Tabrak Lari</String>
+        <String xml:lang="es-ES">Atropello y fuga</String>
+        <String xml:lang="pt-BR">Atropelamento e fuga</String>
     </Entry>
 
     <Entry Id="crime_pickpocketing">
         <String xml:lang="en-US">Pickpocketing</String>
         <String xml:lang="it-IT">Borseggio</String>
         <String xml:lang="id-ID">Mencopet</String>
+        <String xml:lang="es-ES">Carterista</String>
+        <String xml:lang="pt-BR">Batedor de carteira</String>
     </Entry>
 
     <Entry Id="crime_shoplifting">
         <String xml:lang="en-US">Shoplifting</String>
         <String xml:lang="it-IT">Taccheggio</String>
         <String xml:lang="id-ID">Maling</String>
+        <String xml:lang="es-ES">Robo en tiendas</String>
+        <String xml:lang="pt-BR">Furto em loja</String>
     </Entry>
 
     <Entry Id="crime_gta">
         <String xml:lang="en-US">Grand Theft Auto</String>
         <String xml:lang="it-IT">Furto d'auto</String>
         <String xml:lang="id-ID">Pencurian Kendaraan</String>
+        <String xml:lang="es-ES">Grand Theft Auto</String>
+        <String xml:lang="pt-BR">Grand Theft Auto</String>
     </Entry>
 
     <Entry Id="crime_gta_emergency_vehicle">
         <String xml:lang="en-US">Emergency Vehicle Theft</String>
         <String xml:lang="it-IT">Furto di veicolo d'emergenza</String>
         <String xml:lang="id-ID">Pencurian Kendaraan Darurat</String>
+        <String xml:lang="es-ES">Robo de vehículos de emergencia</String>
+        <String xml:lang="pt-BR">Roubo de veículos de emergência</String>
     </Entry>
 
     <Entry Id="crime_gta_armored_vehicle">
         <String xml:lang="en-US">Armored Police Vehicle Theft</String>
         <String xml:lang="it-IT">Furto di veicolo blindato della polizia</String>
         <String xml:lang="id-ID">Pencurian Kendaraan Lapis Baja</String>
+        <String xml:lang="es-ES">Robo de vehículo policial blindado</String>
+        <String xml:lang="pt-BR">Roubo de veículo policial blindado</String>
     </Entry>
 
     <Entry Id="crime_gta_military_vehicle">
         <String xml:lang="en-US">Military Vehicle Theft</String>
         <String xml:lang="it-IT">Furto di veicolo militare</String>
         <String xml:lang="id-ID">Pencurian Kendaraan Militer</String>
+        <String xml:lang="es-ES">Robo de vehículos militares</String>
+        <String xml:lang="pt-BR">Roubo de veículos militares</String>
     </Entry>
 
     <Entry Id="crime_export_vehicle">
         <String xml:lang="en-US">Illegal Vehicle Exportation</String>
         <String xml:lang="it-IT">Esportazione illegale di veicolo</String>
         <String xml:lang="id-ID">Mengexport Kendaraan secara Ilegal</String>
+        <String xml:lang="es-ES">Exportación ilegal de vehículos</String>
+        <String xml:lang="pt-BR">Exportação ilegal de veículos</String>
     </Entry>
 
     <Entry Id="crime_threat">
         <String xml:lang="en-US">Threatening with a Weapon</String>
         <String xml:lang="it-IT">Minaccia con arma</String>
         <String xml:lang="id-ID">Pengancaman dengan senjata</String>
+        <String xml:lang="es-ES">Amenazar con un arma</String>
+        <String xml:lang="pt-BR">Amenazar com uma arma</String>
     </Entry>
 
     <Entry Id="crime_police_threat">
         <String xml:lang="en-US">Threatening an Officer</String>
         <String xml:lang="it-IT">Minaccia a un agente</String>
         <String xml:lang="id-ID">Pengancaman terhadap petugas</String>
+        <String xml:lang="es-ES">Amenazar a un Policia</String>
+        <String xml:lang="pt-BR">Ameaça a um policial</String>
     </Entry>
 
     <Entry Id="crime_damage_vehicle">
         <String xml:lang="en-US">Damaging a Vehicle</String>
         <String xml:lang="it-IT">Danneggiamento di un veicolo</String>
         <String xml:lang="id-ID">Merusak Kendaraan</String>
+        <String xml:lang="es-ES">Dañar un vehículo</String>
+        <String xml:lang="pt-BR">Danificar um veículo</String>
     </Entry>
 
     <Entry Id="crime_damage_emergency_vehicle">
         <String xml:lang="en-US">Damaging an Emergency Vehicle</String>
         <String xml:lang="it-IT">Danneggiamento di un veicolo d'emergenza</String>
         <String xml:lang="id-ID">Merusak kendaraan Darurat</String>
+        <String xml:lang="es-ES">Dañar un vehículo de emergencia</String>
+        <String xml:lang="pt-BR">Danificar um veículo de emergência</String>
     </Entry>
 
     <Entry Id="crime_shoot_emergency_vehicle">
         <String xml:lang="en-US">Shooting at an Emergency Vehicle</String>
         <String xml:lang="it-IT">Sparare a un veicolo di emergenza</String>
         <String xml:lang="id-ID">Menembak ke Kendaraan Darurat</String>
+        <String xml:lang="es-ES">Disparar a un vehículo de emergencia</String>
+        <String xml:lang="pt-BR">Disparar contra um veículo de emergência</String>
     </Entry>
 
     <Entry Id="crime_shoot_vehicle">
         <String xml:lang="en-US">Shooting at a Vehicle</String>
-        <String xml:lang="it-IT">Sparare a un veicolo</String>
+        <String xml:lang="it-IT">Sparare a un Veicolo</String>
         <String xml:lang="id-ID">Menembak ke kendaraan</String>
+        <String xml:lang="es-ES">Disparar a un Vehículo</String>
+        <String xml:lang="pt-BR">Disparar contra um Veículo</String>
     </Entry>
 
     <Entry Id="crime_assault">
         <String xml:lang="en-US">Assault</String>
         <String xml:lang="it-IT">Aggressione</String>
         <String xml:lang="id-ID">Penyerangan</String>
+        <String xml:lang="es-ES">Agresión</String>
+        <String xml:lang="pt-BR">Agressão</String>
     </Entry>
 
     <Entry Id="crime_armed_assault">
         <String xml:lang="en-US">Assault with a Deadly Weapon</String>
         <String xml:lang="it-IT">Aggressione a mano armata</String>
         <String xml:lang="id-ID">Penyerangan dengan senjata mematikan</String>
+        <String xml:lang="es-ES">Agresión con Arma mortal</String>
+        <String xml:lang="pt-BR">Agressão com uma Arma mortal</String>
     </Entry>
 
     <Entry Id="crime_police_assault">
         <String xml:lang="en-US">Assault on an Officer</String>
-        <String xml:lang="it-IT">Aggressione a un agente</String>
+        <String xml:lang="it-IT">Aggressione a un Agente</String>
         <String xml:lang="id-ID">Penyerangan terhadap petugas</String>
+        <String xml:lang="es-ES">Agresión a un Policia</String>
+        <String xml:lang="pt-BR">Agressão a um policial</String>
     </Entry>
 
     <Entry Id="crime_robbery">
         <String xml:lang="en-US">Armed Robbery</String>
         <String xml:lang="it-IT">Rapina a mano armata</String>
         <String xml:lang="id-ID">Perampokan Bersenjata</String>
+        <String xml:lang="es-ES">Robo a mano armada</String>
+        <String xml:lang="pt-BR">Assalto à mão armada</String>
     </Entry>
 
     <Entry Id="crime_attempted_robbery">
         <String xml:lang="en-US">Attempted Robbery</String>
         <String xml:lang="it-IT">Tentata rapina</String>
         <String xml:lang="id-ID">Percobaan Perampokan</String>
+        <String xml:lang="es-ES">Intento de Robo</String>
+        <String xml:lang="pt-BR">Tentativa de Assalto</String>
     </Entry>
 
     <Entry Id="crime_burglary">
         <String xml:lang="en-US">Burglary</String>
         <String xml:lang="it-IT">Scasso</String>
         <String xml:lang="id-ID">Pencurian</String>
+        <String xml:lang="es-ES">Robo de viviendas</String>
+        <String xml:lang="pt-BR">Assalto de domicílio</String>
     </Entry>
 
     <Entry Id="crime_home_invasion">
         <String xml:lang="en-US">Home Invasion</String>
         <String xml:lang="it-IT">Invasione domestica</String>
         <String xml:lang="id-ID">Invasi Rumah</String>
+        <String xml:lang="es-ES">Invasión de viviendas</String>
+        <String xml:lang="pt-BR">Invasão de domicílio</String>
     </Entry>
 
     <Entry Id="crime_hacking_theft">
         <String xml:lang="en-US">Hacking and Theft</String>
         <String xml:lang="it-IT">Hackeraggio e furto</String>
         <String xml:lang="id-ID">Peretasan dan Pencurian</String>
+        <String xml:lang="es-ES">Hackeo y Robo</String>
+        <String xml:lang="pt-BR"Hacking e Assalto></String>
     </Entry>
 
     <Entry Id="crime_jewelry_robbery">
         <String xml:lang="en-US">Jewelry Robbery</String>
         <String xml:lang="it-IT">Rapina di gioielleria</String>
         <String xml:lang="id-ID">Perampokan Perhiasan</String>
+        <String xml:lang="es-ES">Robo en Joyería</String>
+        <String xml:lang="pt-BR">Assalto em Joalheria</String>
     </Entry>
 
     <Entry Id="crime_attempted_jewelry_robbery">
         <String xml:lang="en-US">Attempted Jewelry Robbery</String>
         <String xml:lang="it-IT">Tentata rapina di gioielleria</String>
         <String xml:lang="id-ID">percobaan perampokan perhiasan</String>
+        <String xml:lang="es-ES">Intento de Robo en Joyería</String>
+        <String xml:lang="pt-BR">Tentativa de assalto em Joalheria</String>
     </Entry>
 
     <Entry Id="crime_bank_robbery">
         <String xml:lang="en-US">Bank Robbery</String>
         <String xml:lang="it-IT">Rapina in banca</String>
         <String xml:lang="id-ID">Perampokan Bank</String>
+        <String xml:lang="es-ES">Robo a un banco</String>
+        <String xml:lang="pt-BR">Assalto a banco</String>
     </Entry>
 
     <Entry Id="crime_carjacking">
         <String xml:lang="en-US">Carjacking</String>
         <String xml:lang="it-IT">Furto d'auto in movimento</String>
         <String xml:lang="id-ID">Pembajakan Kendaraan</String>
+        <String xml:lang="es-ES">Robo de coche</String>
+        <String xml:lang="pt-BR">Roubo de carro</String>
     </Entry>
 
     <Entry Id="crime_murder">
         <String xml:lang="en-US">Murder</String>
         <String xml:lang="it-IT">Omicidio</String>
         <String xml:lang="id-ID">Pembunuhan</String>
+        <String xml:lang="es-ES">Asesinato</String>
+        <String xml:lang="pt-BR">Assassinato</String>
     </Entry>
 
     <Entry Id="crime_police_murder">
         <String xml:lang="en-US">Murder of an Officer</String>
         <String xml:lang="it-IT">Omicidio di un agente</String>
         <String xml:lang="id-ID">Pembunuhan Petugas</String>
+        <String xml:lang="es-ES">Asesinato a un oficial</String>
+        <String xml:lang="pt-BR">Assassinato a um policial</String>
     </Entry>
 
     <Entry Id="crime_eluding">
         <String xml:lang="en-US">Eluding an Officer</String>
         <String xml:lang="it-IT">Eludere un agente</String>
         <String xml:lang="id-ID">Menghiraukan Petugas</String>
+        <String xml:lang="es-ES">Evadir a un agente</String>
+        <String xml:lang="pt-BR">Evitar um agente</String>
     </Entry>
 
     <Entry Id="crime_refusing_ticket">
         <String xml:lang="en-US">Refusing a Ticket</String>
         <String xml:lang="it-IT">Rifiuto di una multa</String>
         <String xml:lang="id-ID">Menolak Tiket</String>
+        <String xml:lang="es-ES">Rechazar una multa</String>
+        <String xml:lang="pt-BR">Recusa de uma multa</String>
     </Entry>
 
     <Entry Id="crime_freeing">
         <String xml:lang="en-US">Freeing a Suspect</String>
         <String xml:lang="it-IT">Liberare un sospettato</String>
         <String xml:lang="id-ID">Membebaskan Tahanan</String>
+        <String xml:lang="es-ES">Liberar a un sospechoso</String>
+        <String xml:lang="pt-BR">Liberar um suspeito</String>
     </Entry>
 
     <Entry Id="crime_harboring">
         <String xml:lang="en-US">Harboring a Fugitive</String>
         <String xml:lang="it-IT">Nascondere un fuggitivo</String>
         <String xml:lang="id-ID">Membantu Buronan</String>
+        <String xml:lang="es-ES">Acoger a un fugitivo</String>
+        <String xml:lang="pt-BR">Acolhimento de um fugitivo</String>
     </Entry>
 
     <Entry Id="crime_resisting">
         <String xml:lang="en-US">Resisting Arrest</String>
         <String xml:lang="it-IT">Resistenza all'arresto</String>
         <String xml:lang="id-ID">Melawan saat Penahanan</String>
+        <String xml:lang="es-ES">Resistirse a la detención</String>
+        <String xml:lang="pt-BR">Resistência à prisão</String>
     </Entry>
 
     <Entry Id="crime_drug_traffic">
         <String xml:lang="en-US">Drug Trafficking</String>
         <String xml:lang="it-IT">Traffico di droga</String>
         <String xml:lang="id-ID">Penjualan Narkoba</String>
+        <String xml:lang="es-ES">Tráfico de Drogas</String>
+        <String xml:lang="pt-BR">Tráfico de drogas</String>
     </Entry>
 
     <Entry Id="crime_weap_traffic">
         <String xml:lang="en-US">Arms Trafficking</String>
         <String xml:lang="it-IT">Traffico di armi</String>
         <String xml:lang="id-ID">Penjualan Senjata Ilegal</String>
+        <String xml:lang="es-ES">Tráfico de armas</String>
+        <String xml:lang="pt-BR">Tráfico de armas</String>
     </Entry>
 
     <Entry Id="crime_kill_pet">
         <String xml:lang="en-US">Killing a Pet</String>
         <String xml:lang="it-IT">Uccisione di un animale domestico</String>
         <String xml:lang="id-ID">Membunuh Hewan</String>
+        <String xml:lang="es-ES">Matar a una mascota</String>
+        <String xml:lang="pt-BR">Matar um animal de estimação</String>
     </Entry>
 
     <Entry Id="crime_kill_protected">
         <String xml:lang="en-US">Killing a Protected Species</String>
         <String xml:lang="it-IT">Uccisione di una specie protetta</String>
         <String xml:lang="id-ID">Membunuh Hewan yang Dilindungi</String>
+        <String xml:lang="es-ES">Matar una especie protegida</String>
+        <String xml:lang="pt-BR">Matar uma espécie protegida</String>
     </Entry>
 
     <Entry Id="crime_hunting_wo_license">
         <String xml:lang="en-US">Hunting without a License</String>
         <String xml:lang="it-IT">Cacciare senza licenza</String>
         <String xml:lang="id-ID">Berburu tanpa lisensi</String>
+        <String xml:lang="es-ES">Cazar sin licencia</String>
+        <String xml:lang="pt-BR">Caça sem licença</String>
     </Entry>
 
     <Entry Id="crime_fishing_wo_license">
         <String xml:lang="en-US">Fishing without a License</String>
         <String xml:lang="it-IT">Pescare senza licenza</String>
         <String xml:lang="id-ID">Mancing tanpa lisensi</String>
+        <String xml:lang="es-ES">Pescar sin licencia</String>
+        <String xml:lang="pt-BR">Pesca sem licença</String>
     </Entry>
 
     <Entry Id="crime_bribery">
         <String xml:lang="en-US">Attempted Bribery</String>
         <String xml:lang="it-IT">Tentata corruzione</String>
         <String xml:lang="id-ID">Percobaan Menyuap Petugas</String>
+        <String xml:lang="es-ES">Intento de soborno</String>
+        <String xml:lang="pt-BR">Tentativa de suborno</String>
     </Entry>
 
     <Entry Id="crime_gambling">
         <String xml:lang="en-US">Illegal Gambling</String>
         <String xml:lang="it-IT">Gioco d'azzardo illegale</String>
         <String xml:lang="id-ID">Perjudian Ilegal</String>
+        <String xml:lang="es-ES">Apuestas Ilegales</String>
+        <String xml:lang="pt-BR">Jogos de azar ilegais</String>
     </Entry>
 
     <!-- =============================== -->
@@ -381,28 +469,41 @@
     <Entry Id="dispatch_crime_reported">
         <String xml:lang="en-US">~b~(C)Dispatch:(/C) ~s~Suspect {0} ~s~committed a {1} ({2}).~n~Location: ~y~{3} ~s~({4}).</String>
         <String xml:lang="it-IT">~b~(C)Centrale:(/C) ~s~Il sospettato {0} ~s~ha commesso un(a) {1} ({2}).~n~Luogo: ~y~{3} ~s~({4}).</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
 
     <Entry Id="dispatch_crime_reported_vehicle">
         <String xml:lang="en-US">Vehicle: {0}</String>
         <String xml:lang="it-IT">Veicolo: {1}</String>
+        <String xml:lang="es-ES">Vehículos</String>
+        <String xml:lang="pt-BR">Veículos</String>
     </Entry>
     
     <!-- {0} = Suspect name and id -->
     <!-- {1} = Crime type (felony, misdemeanor etc..) -->
     <!-- {2} = Crime name (Robbery, assault, etc..) -->
+    <!-- Example. You spotted {0Rolon} ~s~committing a {1 Fenoly } - {2 Assault} -->
     <Entry Id="dispatch_crime_spotted">
         <String xml:lang="en-US">You spotted {0} ~s~committing a {1} - {2}.</String>
         <String xml:lang="it-IT">Hai avvistato {0} ~s~mentre commetteva un(a) {1} - {2}.</String>
+        <String xml:lang="es-ES">Has visto a {0} ~s~cometer un {1} - {2}.</String>
+        <String xml:lang="pt-BR">Você viu {0} ~s~cometer um {1} - {2}.</String>
     </Entry>
 
     <Entry Id="dispatch_respond">
         <String xml:lang="en-US">Respond</String>
         <String xml:lang="it-IT">Rispondi</String>
+        <String xml:lang="es-ES">Responder</String>
+        <String xml:lang="pt-BR">Responder</String>
     </Entry>
 
+    <!-- {0} = Suspect name and id -->
+    <!-- Example: Head to ~y~{0}Rolon ~s~and capture-->
     <Entry Id="dispatch_respond_message">
         <String xml:lang="en-US">Head to ~y~{0} ~s~and capture {1}.</String>
         <String xml:lang="it-IT">Dirigiti a ~y~{0} ~s~e cattura {1}.</String>
+        <String xml:lang="es-ES">Dirígete a ~y~{0} y capturalo</String>
+        <String xml:lang="pt-BR">Vá até ~y~{0} e o capture.</String>
     </Entry>
 </Entries>
