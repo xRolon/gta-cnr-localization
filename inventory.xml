@@ -8,48 +8,64 @@
         <String xml:lang="en-US">Disclaimer</String>
         <String xml:lang="it-IT">Disclaimer</String>
         <String xml:lang="id-ID">Disclaimer</String>
+        <String xml:lang="es-ES">Aviso legal</String>
+        <String xml:lang="pt-BR">Aviso legal</String>
     </Entry>
     
     <Entry Id="disclaimer_illegal_drugs">
         <String xml:lang="en-US">CnR V does not endorse the use of illegal drugs in real life.</String>
         <String xml:lang="it-IT">CnR V non consiglia l'uso di droghe illegali nella vita reale.</String>
         <String xml:lang="id-ID">CnR V tidak pernah mempromosikan penggunaan narkoba di dunia nyata.</String>
+        <String xml:lang="es-ES">CnR V no apoya el uso de drogas ilegales en la vida real.</String>
+        <String xml:lang="pt-BR">CnR V não apóia o uso de drogas ilegais na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_prescription_drugs">
         <String xml:lang="en-US">CnR V does not endorse the abuse of prescription drugs in real life.</String>
         <String xml:lang="it-IT">CnR V non consiglia l'abuso di farmaci da prescrizione nella vita reale.</String>
         <String xml:lang="id-ID">CnR V tidak pernah mempromosikan penyalahgunaan obat reset di dunia nyata.</String>
+        <String xml:lang="es-ES">CnR V no apoya el abuso de medicamentos recetados en la vida real</String>
+        <String xml:lang="pt-BR">CnR V não apóia o abuso de medicamentos prescritos na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_weed">
         <String xml:lang="en-US">CnR V does not endorse the use of recreational drugs in real life.</String>
         <String xml:lang="it-IT">CnR V non consiglia l'uso di droghe leggere nella vita reale.</String>
         <String xml:lang="id-ID">CnR V tidak pernah mempromosikan penggunaan obat-obatan rekreasi di dunia nyata.</String>
+        <String xml:lang="es-ES">CnR V no respalda el consumo de drogas recreativas en la vida real.</String>
+        <String xml:lang="pt-BR">CnR V não endossa o uso de drogas recreativas na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_gambling">
         <String xml:lang="en-US">Gambling is addictive. CnR V does not endorse gambling in real life.</String>
         <String xml:lang="it-IT">Il gioco d'azzardo dà dipendenza. CnR V non consiglia il gioco d'azzardo nella vita reale.</String>
         <String xml:lang="id-ID">Judi itu adiktif. CnR V tidak pernah mempromosikan perjudian di dunia nyata.</String>
+        <String xml:lang="es-ES">Las apuestas crea adicción. CnR V no apoya el juego en la vida real.</String>
+        <String xml:lang="pt-BR">O jogo é viciante. O CnR V não apóia os jogos de azar na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_tobacco">
         <String xml:lang="en-US">Tobacco contains harmful and addictive substances. CnR V does not endorse the use of tobacco in real life.</String>
         <String xml:lang="it-IT">Il tabacco contiene sostanze nocive che danno dipendenza. CnR V non consiglia l'uso di tabacco nella vita reale.</String>
         <String xml:lang="id-ID">Rokok memilih zat berbahaya dan zat adiktif. CnR V tidak pernah mempromosikan penggunaan rokok di dunia nyata.</String>
+        <String xml:lang="es-ES">El tabaco contiene sustancias nocivas y adictivas. CnR V no apoya el consumo de tabaco en la vida real.</String>
+        <String xml:lang="pt-BR">O tabaco contém substâncias nocivas e que causam dependência. O CnR V não apóia o uso do tabaco na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_vaping">
         <String xml:lang="en-US">Vaping is harmful and addictive. CnR V does not endorse vaping in real life.</String>
         <String xml:lang="it-IT">Svapare nuoce e dà dipendenza. CnR V non consiglia l'uso di sigarette elettroniche nella vita reale.</String>
         <String xml:lang="id-ID">Vape itu berbahaya dan adiktif. CnR V tidak pernah mempromosikan penggunaan vape di dunia nyata.</String>
+        <String xml:lang="es-ES">El vapeo es perjudicial y adictivo. CnR V no apoya el vapeo en la vida real.</String>
+        <String xml:lang="pt-BR">O vaping é prejudicial e causa dependência. O CnR V não apóia o vaping na vida real.</String>
     </Entry>
     
     <Entry Id="disclaimer_alcohol">
         <String xml:lang="en-US">Alcohol is an addictive substance and causes many direct and indirect deaths. CnR V does not promote the use of alcohol.</String>
         <String xml:lang="it-IT">L'alcol è una sostanza che crea dipendenza e causa svariate morti dirette e indirette. CnR V non consiglia l'uso di alcol.</String>
         <String xml:lang="id-ID">Alkohol memiliki zat adiktif dan bisa membuat kematian secara langsun ataupun tak langsung. CnR V tidak pernah mempromosikan penggunaan alkohol.</String>
+        <String xml:lang="es-ES">El alcohol es una sustancia adictiva y causa muchas muertes directas e indirectas. CnR V no promueve el consumo de alcohol.</String>
+        <String xml:lang="pt-BR">O álcool é uma substância viciante e causa muitas mortes diretas e indiretas. O CnR V não promove o consumo de álcool.</String>
     </Entry>
 
     <!-- ================================= -->
@@ -59,216 +75,288 @@
         <String xml:lang="en-US">Light Armor</String>
         <String xml:lang="it-IT">Giubbotto leggero</String>
         <String xml:lang="id-ID">Armor Ringan</String>
+        <String xml:lang="es-ES">Armadura ligera</String>
+        <String xml:lang="pt-BR">Armadura leve</String>
     </Entry>
     
     <Entry Id="item_armor_light_desc">
         <String xml:lang="en-US">Restores your body armor by 25%</String>
         <String xml:lang="it-IT">Ripristina la tua armatura del 25%</String>
         <String xml:lang="id-ID">Mengembalikan armor dibadan sebanyak 25%</String>
+        <String xml:lang="es-ES">Restaura tu armadura corporal un 25%</String>
+        <String xml:lang="pt-BR">Restaura sua armadura corporal em 25%</String>
     </Entry>
 
     <Entry Id="item_armor_standard">
         <String xml:lang="en-US">Standard Armor</String>
         <String xml:lang="it-IT">Giubbotto standard</String>
         <String xml:lang="id-ID">Armor Sedang</String>
+        <String xml:lang="es-ES">Armadura Estándar</String>
+        <String xml:lang="pt-BR">Armadura padrão</String>
     </Entry>
     
     <Entry Id="item_armor_standard_desc">
         <String xml:lang="en-US">Restores your body armor by 50%</String>
         <String xml:lang="it-IT">Ripristina la tua armatura del 50%</String>
         <String xml:lang="id-ID">Mengembalikan armor dibadan sebanyak 50%</String>
+        <String xml:lang="es-ES">Restaura tu armadura corporal un 50%</String>
+        <String xml:lang="pt-BR">Restaura sua armadura corporal em 50%</String>
     </Entry>
 
     <Entry Id="item_armor_heavy">
         <String xml:lang="en-US">Heavy Armor</String>
         <String xml:lang="it-IT">Giubbotto pesante</String>
         <String xml:lang="id-ID">Armor Berat</String>
+        <String xml:lang="es-ES">Armadura pesada</String>
+        <String xml:lang="pt-BR">Armadura pesada</String>
     </Entry>
     
     <Entry Id="item_armor_heavy_desc">
         <String xml:lang="en-US">Completely restores your body armor</String>
         <String xml:lang="it-IT">Ripristina completamente la tua armatura</String>
         <String xml:lang="id-ID">Mengembalikan armor dibadan sepenuhnya</String>
+        <String xml:lang="es-ES">Restaura completamente tu armadura corporal</String>
+        <String xml:lang="pt-BR">Restaurar totalmente sua armadura corporal</String>
     </Entry>
 
     <Entry Id="item_medkit">
         <String xml:lang="en-US">Medkit</String>
         <String xml:lang="it-IT">Kit medico</String>
         <String xml:lang="id-ID">Medkit</String>
+        <String xml:lang="es-ES">Botiquín</String>
+        <String xml:lang="pt-BR">Kit médico</String>
     </Entry>
     
     <Entry Id="item_medkit_desc">
         <String xml:lang="en-US">Completely restores your health</String>
         <String xml:lang="it-IT">Ripristina completamente la tua salute</String>
         <String xml:lang="id-ID">Menyembuhkan darahmu sepenuhnya</String>
+        <String xml:lang="es-ES">Restaura completamente su salud</String>
+        <String xml:lang="pt-BR">Restaura totalmente sua saúde</String>
     </Entry>
 
     <Entry Id="item_bandage">
         <String xml:lang="en-US">Bandage</String>
         <String xml:lang="it-IT">Benda</String>
         <String xml:lang="id-ID">perban</String>
+        <String xml:lang="es-ES">Vendas</String>
+        <String xml:lang="pt-BR">Bandagem</String>
     </Entry>
     
     <Entry Id="item_bandage_desc">
         <String xml:lang="en-US">Restores your health by 20%, up to 80%</String>
         <String xml:lang="it-IT">Ripristina la tua salute del 20%, fino all'80%</String>
         <String xml:lang="id-ID">Menyembuhkan darahmu sebanyak 20%, sampai dengan 80%</String>
+        <String xml:lang="es-ES">Restaura tu salud un 20%, hasta un 80%.</String>
+        <String xml:lang="pt-BR">Restaura sua saúde em 20%, até 80%.</String>
     </Entry>
 
     <Entry Id="item_curekit">
         <String xml:lang="en-US">Treatment Kit</String>
         <String xml:lang="it-IT">Kit di trattamento</String>
         <String xml:lang="id-ID">Kit pengobatan</String>
+        <String xml:lang="es-ES">Kit de tratamiento</String>
+        <String xml:lang="pt-BR">Kit de tratamento</String>
     </Entry>
     
     <Entry Id="item_curekit_desc">
         <String xml:lang="en-US">A kit for treating any disease; for use by medics only</String>
         <String xml:lang="it-IT">Un kit per trattare ogni malattia; riservato esclusivamente all'uso da parte dei medici</String>
         <String xml:lang="id-ID">Kit yang digunakan untuk menyembukan segala penyakit; hanya bisa digunakan oleh medis</String>
+        <String xml:lang="es-ES">Un kit para tratar cualquier enfermedad; sólo para uso médico</String>
+        <String xml:lang="pt-BR">Um kit para tratar qualquer doença; somente para uso médico.</String>
     </Entry>
 
     <Entry Id="item_coke">
         <String xml:lang="en-US">Cocaine</String>
         <String xml:lang="it-IT">Cocaina</String>
         <String xml:lang="id-ID">kokain</String>
+        <String xml:lang="es-ES">Cocaína</String>
+        <String xml:lang="pt-BR">Cocaína</String>
     </Entry>
     
     <Entry Id="item_coke_desc">
         <String xml:lang="en-US">Increases your stamina and speed.</String>
         <String xml:lang="it-IT">Aumenta la tua resistenza e velocità.</String>
         <String xml:lang="id-ID">Menambahkan stamina dan kecepatan lari.</String>
+        <String xml:lang="es-ES">Aumenta tu resistencia y velocidad.</String>
+        <String xml:lang="pt-BR">Aumente sua resistência e velocidade</String>
     </Entry>
 
     <Entry Id="item_crack">
         <String xml:lang="en-US">Crack Cocaine</String>
         <String xml:lang="it-IT">Crack</String>
         <String xml:lang="id-ID">kokain kecil</String>
+        <String xml:lang="es-ES">Crack</String>
+        <String xml:lang="pt-BR">Crack</String>
     </Entry>
     
     <Entry Id="item_crack_desc">
         <String xml:lang="en-US">Increases your stamina and speed significantly. Effects last less than those of powder cocaine.</String>
         <String xml:lang="it-IT">Aumenta la tua resistenza e velocità significativamente. Gli effetti durano di meno rispetto a quelli della cocaina in polvere.</String>
         <String xml:lang="id-ID">menambahkan stamina dan kecepatan lari secara signifikan. Tetapi durasinya lebih sedikit dibandingkan dengan kokain serbuk</String>
+        <String xml:lang="es-ES">Aumenta significativamente la resistencia y la velocidad. Los efectos duran menos que los de la cocaína en polvo</String>
+        <String xml:lang="pt-BR">Aumenta significativamente a resistência e a velocidade. Os efeitos duram menos do que os da cocaína em pó</String>
     </Entry>
 
     <Entry Id="item_heroin">
         <String xml:lang="en-US">Heroin</String>
         <String xml:lang="it-IT">Eroina</String>
         <String xml:lang="id-ID">Heroin</String>
+        <String xml:lang="es-ES">Heroína</String>
+        <String xml:lang="pt-BR">Heroína</String>
     </Entry>
     
     <Entry Id="item_heroin_desc">
         <String xml:lang="en-US">Gradually restores your health, but slows down your movement.</String>
         <String xml:lang="it-IT">Ripristina la tua salute gradualmente, ma rallenta i tuoi movimenti.</String>
         <String xml:lang="id-ID">Perlahan menyembuhkan darahmu, tetapi mengurangi kecepatan langkah.</String>
+        <String xml:lang="es-ES">Restaura gradualmente tu salud, pero ralentiza tus movimientos</String>
+        <String xml:lang="pt-BR">Restaura gradualmente sua saúde, mas reduz a velocidade de seus movimentos.</String>
     </Entry>
 
     <Entry Id="item_meth">
         <String xml:lang="en-US">Meth</String>
         <String xml:lang="it-IT">Metanfetamina</String>
         <String xml:lang="id-ID">meth</String>
+        <String xml:lang="es-ES">Metanfetamina</String>
+        <String xml:lang="pt-BR">Metanfetamina</String>
     </Entry>
     
     <Entry Id="item_meth_desc">
         <String xml:lang="en-US">Increases your resistance to damage and your physical strength.</String>
         <String xml:lang="it-IT">Aumenta la tua resistenza al danno e la tua forza fisica.</String>
         <String xml:lang="id-ID">menambahkan resistansi terhadap damage dan meningkatkan kekuatan fisik.</String>
+        <String xml:lang="es-ES">Aumenta tu resistencia al daño y tu fuerza física</String>
+        <String xml:lang="pt-BR">Aumenta sua resistência a danos e força física</String>
     </Entry>
 
     <Entry Id="item_blue_meth">
         <String xml:lang="en-US">Blue Meth</String>
         <String xml:lang="it-IT">Metanfetamina blu</String>
         <String xml:lang="id-ID">Meth Biru</String>
+        <String xml:lang="es-ES">Metanfetamina azul</String>
+        <String xml:lang="pt-BR">Metanfetamina azul</String>
     </Entry>
     
     <Entry Id="item_blue_meth_desc">
         <String xml:lang="en-US">A rare but extremely pure form of meth that significantly increases your resistance to damage and physical strength.</String>
         <String xml:lang="it-IT">Una rara ma estremamente pura forma di metanfetamina che aumenta la tua resistenza al danno e forza fisica significamente.</String>
         <String xml:lang="id-ID">Langka tetapi bentuk murni dari meth yang secara signifikan meningkatkan resistansi terhadap damage dan meningkatkan kekuatan fisik.</String>
+        <String xml:lang="es-ES">Una forma rara, pero extremadamente pura, de metanfetamina que aumenta significativamente tu resistencia al daño y tu fuerza física.</String>
+        <String xml:lang="pt-BR">Uma forma rara, mas extremamente pura, de metanfetamina que aumenta significativamente sua resistência a danos e força física.</String>
     </Entry>
 
     <Entry Id="item_lsd">
         <String xml:lang="en-US">LSD</String>
         <String xml:lang="it-IT">LSD</String>
         <String xml:lang="id-ID">LSD</String>
+        <String xml:lang="es-ES">LSD</String>
+        <String xml:lang="pt-BR">LSD</String>
     </Entry>
     
     <Entry Id="item_lsd_desc">
         <String xml:lang="en-US">Gives you crazy hallucinations.</String>
         <String xml:lang="it-IT">Ti dà allucinazioni pazzesche.</String>
         <String xml:lang="id-ID">Memberikan halusinasi gila.</String>
+        <String xml:lang="es-ES">Te da alucinaciones locas</String>
+        <String xml:lang="pt-BR">Dá a você alucinações malucas</String>
     </Entry>
 
     <Entry Id="item_morphine">
         <String xml:lang="en-US">Morphine</String>
         <String xml:lang="it-IT">Morfina</String>
         <String xml:lang="id-ID">Morfin</String>
+        <String xml:lang="es-ES">Morfina</String>
+        <String xml:lang="pt-BR">Morfina</String>
     </Entry>
 
     <Entry Id="item_codeine">
         <String xml:lang="en-US">Codeine</String>
         <String xml:lang="it-IT">Codeina</String>
         <String xml:lang="id-ID">Kodein</String>
+        <String xml:lang="es-ES">Codeína</String>
+        <String xml:lang="pt-BR">Codeína</String>
     </Entry>
 
     <Entry Id="item_fentanyl">
         <String xml:lang="en-US">Fentanyl</String>
         <String xml:lang="it-IT">Fentanil</String>
         <String xml:lang="id-ID">Fentanil</String>
+        <String xml:lang="es-ES">Fentanilo</String>
+        <String xml:lang="pt-BR">Fentanil</String>
     </Entry>
 
     <Entry Id="item_naloxone">
         <String xml:lang="en-US">Naloxone</String>
         <String xml:lang="it-IT">Naloxone</String>
         <String xml:lang="id-ID">Naloxone</String>
+        <String xml:lang="es-ES">Naloxona</String>
+        <String xml:lang="pt-BR">Naloxona</String>
     </Entry>
     
     <Entry Id="item_naloxone_desc">
         <String xml:lang="en-US">Antidote for drug overdoses. You can only use it on other players.</String>
         <String xml:lang="it-IT">Antidoto per overdose di droga. Puoi usarlo solamente su altri giocatori.</String>
         <String xml:lang="id-ID">Obat penawar untuk keracunan narkoba. Hanya bisa digunakan untuk orang lain.</String>
+        <String xml:lang="es-ES">Antídoto para sobredosis de drogas. Sólo se puede utilizar en otros jugadores.</String>
+        <String xml:lang="pt-BR">Antídoto para overdose de drogas. Só pode ser usado em outros jogadores.</String>
     </Entry>
     
     <Entry Id="item_weed_desc">
         <String xml:lang="en-US">Gets you high and applies a vision filter but slows you down if taken in high amounts.</String>
         <String xml:lang="it-IT">Ti fa sballare e applica un filtro visivo ma ti rallenta se assunta in grandi quantità.</String>
         <String xml:lang="id-ID">Membuatmu teler dan memberikan efek kabur serta memperlambatmu jika dikonsumsi dalam dosis besar.</String>
+        <String xml:lang="es-ES">Te coloca y aplica un filtro de visión, pero te ralentiza si se toma en grandes cantidades</String>
+        <String xml:lang="pt-BR">Deixa você chapado e aplica um filtro de visão, mas o deixa mais lento se tomado em grandes quantidades</String>
     </Entry>
 
     <Entry Id="item_atm_hack">
         <String xml:lang="en-US">ATM Hacking Device</String>
         <String xml:lang="it-IT">Dispositivo di hacking bancomat</String>
         <String xml:lang="id-ID">Perangkat pembobol ATM</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
     
     <Entry Id="item_atm_hack_desc">
         <String xml:lang="en-US">A single-use device that can compromise ATM systems.</String>
         <String xml:lang="it-IT">Un dispositivo monouso che può compromettere i sistemi bancomat.</String>
         <String xml:lang="id-ID">Sekali pakai perangkat ini dapat membobol mesin ATM.</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
 
     <Entry Id="item_c4_bomb_5">
         <String xml:lang="en-US">C-4 Bomb (5kg)</String>
         <String xml:lang="it-IT">Bomba C-4 (5kg)</String>
         <String xml:lang="id-ID">Bom C-4 (5KG)</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
     
     <Entry Id="item_c4_bomb_5_desc">
         <String xml:lang="en-US">A bomb with 5 kilos of C-4. It can only be planted in vehicles.</String>
         <String xml:lang="it-IT">Una bomba con 5 chili di C-4. Può essere piazzata solo nei veicoli.</String>
         <String xml:lang="id-ID">Bom dengan C4 sebanyak 5 kilo. Hanya bisa ditempel dikendaraan.</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
 
     <Entry Id="item_c4_bomb_10">
         <String xml:lang="en-US">C-4 Bomb (10kg)</String>
         <String xml:lang="it-IT">Bomba C-4 (10kg)</String>
         <String xml:lang="id-ID">Bom C-4 (10kg)</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
     
     <Entry Id="item_c4_bomb_10_desc">
         <String xml:lang="en-US">A bomb with 10 kilos of C-4. It can only be planted in vehicles.</String>
         <String xml:lang="it-IT">Una bomba con 10 chili di C-4. Può essere piazzata solo nei veicoli.</String>
         <String xml:lang="id-ID">Bom dengan C4 sebanyak 10 kilo. Hanya bisa ditempel dikendaraan</String>
+        <String xml:lang="es-ES"></String>
+        <String xml:lang="pt-BR"></String>
     </Entry>
 
     <!-- Notice: feel free to name the following scratch cards a little bit differently if the 
