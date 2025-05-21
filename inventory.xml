@@ -315,48 +315,48 @@
         <String xml:lang="en-US">ATM Hacking Device</String>
         <String xml:lang="it-IT">Dispositivo di hacking bancomat</String>
         <String xml:lang="id-ID">Perangkat pembobol ATM</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Dispositivo de Hackeo de ATM</String>
+        <String xml:lang="pt-BR">Dispositivo de Hacking de caixas eletrônicos</String>
     </Entry>
     
     <Entry Id="item_atm_hack_desc">
         <String xml:lang="en-US">A single-use device that can compromise ATM systems.</String>
         <String xml:lang="it-IT">Un dispositivo monouso che può compromettere i sistemi bancomat.</String>
         <String xml:lang="id-ID">Sekali pakai perangkat ini dapat membobol mesin ATM.</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Un dispositivo de un solo uso que puede hackear los sistemas de cajeros automáticos</String>
+        <String xml:lang="pt-BR">Um dispositivo de uso único que pode invadir sistemas de caixas eletrônicos</String>
     </Entry>
 
     <Entry Id="item_c4_bomb_5">
         <String xml:lang="en-US">C-4 Bomb (5kg)</String>
         <String xml:lang="it-IT">Bomba C-4 (5kg)</String>
         <String xml:lang="id-ID">Bom C-4 (5KG)</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Bomba C-4 (5 kg)</String>
+        <String xml:lang="pt-BR">Bomba C-4 (5 kg)</String>
     </Entry>
     
     <Entry Id="item_c4_bomb_5_desc">
         <String xml:lang="en-US">A bomb with 5 kilos of C-4. It can only be planted in vehicles.</String>
         <String xml:lang="it-IT">Una bomba con 5 chili di C-4. Può essere piazzata solo nei veicoli.</String>
         <String xml:lang="id-ID">Bom dengan C4 sebanyak 5 kilo. Hanya bisa ditempel dikendaraan.</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Una bomba con 5 kilos de C-4. Sólo puede ser colocada en vehículos.</String>
+        <String xml:lang="pt-BR">Uma bomba com 5 quilos de C-4. Só pode ser colocada em veículos.</String>
     </Entry>
 
     <Entry Id="item_c4_bomb_10">
         <String xml:lang="en-US">C-4 Bomb (10kg)</String>
         <String xml:lang="it-IT">Bomba C-4 (10kg)</String>
         <String xml:lang="id-ID">Bom C-4 (10kg)</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Bomba C-4 (10 kg)</String>
+        <String xml:lang="pt-BR">Bomba C-4 (10 kg)</String>
     </Entry>
     
     <Entry Id="item_c4_bomb_10_desc">
         <String xml:lang="en-US">A bomb with 10 kilos of C-4. It can only be planted in vehicles.</String>
         <String xml:lang="it-IT">Una bomba con 10 chili di C-4. Può essere piazzata solo nei veicoli.</String>
         <String xml:lang="id-ID">Bom dengan C4 sebanyak 10 kilo. Hanya bisa ditempel dikendaraan</String>
-        <String xml:lang="es-ES"></String>
-        <String xml:lang="pt-BR"></String>
+        <String xml:lang="es-ES">Una bomba con 10 kilos de C-4. Sólo puede ser colocada en vehículos.</String>
+        <String xml:lang="pt-BR">Uma bomba com 10 quilos de C-4. Só pode ser colocada em veículos.</String>
     </Entry>
 
     <!-- Notice: feel free to name the following scratch cards a little bit differently if the 
@@ -365,18 +365,24 @@
         <String xml:lang="en-US">Instant Cash</String>
         <String xml:lang="it-IT">Soldi facili</String>
         <String xml:lang="id-ID">Duit Gachor</String>
+        <String xml:lang="es-ES">Dinero instantáneo </String>
+        <String xml:lang="pt-BR">Dinheiro instantâneo</String>
     </Entry>
 
     <Entry Id="item_scratch_card_2">
         <String xml:lang="en-US">Lucky Scratch</String>
         <String xml:lang="it-IT">Grattino della fortuna</String>
         <String xml:lang="id-ID">Gatcha Hoki</String>
+        <String xml:lang="es-ES">Rasca y Gana $</String>
+        <String xml:lang="pt-BR">Raspe e Ganhe $</String>
     </Entry>
 
     <Entry Id="item_scratch_card_3">
         <String xml:lang="en-US">Magic Numbers</String>
         <String xml:lang="it-IT">Mago dei numeri</String>
         <String xml:lang="id-ID">Angka Ghoib</String>
+        <String xml:lang="es-ES">Numeros Magicos</String>
+        <String xml:lang="pt-BR">Números Mágicos</String>
         
     </Entry>
 
@@ -384,12 +390,16 @@
         <String xml:lang="en-US">Las Venturas Jackpot</String>
         <String xml:lang="it-IT">Jackpot di Las Venturas</String>
         <String xml:lang="id-ID">Jackpot Las Venturas</String>
+        <String xml:lang="es-ES">Jackpot Las Aventuras</String>
+        <String xml:lang="pt-BR">Aventuras do Jackpot</String>
     </Entry>
 
     <Entry Id="item_scratch_card_5">
         <String xml:lang="en-US">Millionaire Shortcut</String>
         <String xml:lang="it-IT">Diventa milionario</String>
         <String xml:lang="id-ID">Cara Cepat Kaya</String>
+        <String xml:lang="es-ES">Camino al Millon</String>
+        <String xml:lang="pt-BR">Rumo ao milhão</String>
     </Entry>
     
     <!-- {0} = the max win amount -->
@@ -397,168 +407,224 @@
         <String xml:lang="en-US">Scratch this card and win up to ~g~{0}~s~!</String>
         <String xml:lang="it-IT">Gratta questo biglietto e vinci fino a ~g~{0}~s~!</String>
         <String xml:lang="id-ID">Gosok kartu ini dan dapatkan hadiah maksimal sebesar ~g~{0}~s~!</String>
+        <String xml:lang="es-ES">Rasca esta tarjeta y gana hasta</String>
+        <String xml:lang="pt-BR">Raspe este cartão e ganhe até</String>
     </Entry>
 
     <Entry Id="item_engine_kit">
         <String xml:lang="en-US">Engine Repair Kit</String>
-        <String xml:lang="it-IT">Kit di riparazione motore</String>
+        <String xml:lang="it-IT">Kit di Riparazione Rotore</String>
         <String xml:lang="id-ID">Alat Perbaikan Mesin</String>
+        <String xml:lang="es-ES">Kit de Reparación de Motor</String>
+        <String xml:lang="pt-BR">Kit de Reparação do Motor</String>
     </Entry>
     
     <Entry Id="item_engine_kit_desc">
         <String xml:lang="en-US">Repair the engine of a car, truck or motorcycle on the go.</String>
         <String xml:lang="it-IT">Ripara il motore di un'auto, camion o motocicletta strada facendo.</String>
         <String xml:lang="id-ID">Memperbaiki mesin dari mobil, truck atau motor dijalan.</String>
+        <String xml:lang="es-ES">Repare el motor de un coche, camión o motocicleta sobre la marcha.</String>
+        <String xml:lang="pt-BR">Conserte o motor de um carro, caminhão ou motocicleta na hora.</String>
     </Entry>
 
     <Entry Id="item_tire_kit">
         <String xml:lang="en-US">Tire Repair Kit</String>
         <String xml:lang="it-IT">Kit di riparazione pneumatici</String>
         <String xml:lang="id-ID">Alat Tambal Ban</String>
+        <String xml:lang="es-ES">Kit de Reparación de Neumáticos</String>
+        <String xml:lang="pt-BR">Kit de Reparação de Pneus</String>
     </Entry>
     
     <Entry Id="item_tire_kit_desc">
         <String xml:lang="en-US">Repair a vehicle's flat tires.</String>
         <String xml:lang="it-IT">Ripara gli pneumatici bucati di un veicolo.</String>
         <String xml:lang="id-ID">Memperbaiki ban bocor.</String>
+        <String xml:lang="es-ES">Repara los neumáticos pinchados.</String>
+        <String xml:lang="pt-BR">Conserto de pneus furados.</String>
     </Entry>
     
     <Entry Id="item_power_saw">
         <String xml:lang="en-US">Power Saw</String>
-        <String xml:lang="it-IT">Sega elettrica</String>
+        <String xml:lang="it-IT">Sega Elettrica</String>
         <String xml:lang="id-ID">Gergaji Mesin</String>
+        <String xml:lang="es-ES">Sierra Eléctrica</String>
+        <String xml:lang="pt-BR">Serra Elétrica</String>
     </Entry>
     
     <Entry Id="item_power_saw_desc">
         <String xml:lang="en-US">Cut off vehicle parts. There's a 20% chance of it breaking after each use.</String>
         <String xml:lang="it-IT">Taglia parti di veicoli. C'è una probabilità del 20% che si rompa dopo ogni uso.</String>
         <String xml:lang="id-ID">Untuk memotong bagian kendaraan. Ada kemungkinan 20% untuk rusak pada setiap penggunaan.</String>
+        <String xml:lang="es-ES">Corta las  del vehículo. Hay un 20% de posibilidades de que se rompa después de cada uso.</String>
+        <String xml:lang="pt-BR">Corta as peças do veículo. Há 20% de chance de quebrar após cada uso.</String>
     </Entry>
     
     <Entry Id="item_cleaning_kit">
         <String xml:lang="en-US">Vehicle Cleaning Kit</String>
         <String xml:lang="it-IT">Kit di pulizia veicolo</String>
         <String xml:lang="id-ID">Alat pencuci kendaraan</String>
+        <String xml:lang="es-ES">Kit de limpieza para vehículos</String>
+        <String xml:lang="pt-BR">Kit de limpeza de veículos</String>
     </Entry>
     
     <Entry Id="item_cleaning_kit_desc">
         <String xml:lang="en-US">Cleans a vehicle.</String>
         <String xml:lang="it-IT">Pulisce un veicolo</String>
         <String xml:lang="id-ID">Mencuci kendaraan</String>
+        <String xml:lang="es-ES">Limpia el vehículo.</String>
+        <String xml:lang="pt-BR">Limpa o veículo</String>
     </Entry>
     
     <Entry Id="item_modding_kit">
         <String xml:lang="en-US">Vehicle Modding Kit</String>
         <String xml:lang="it-IT">Kit di modifica veicolo</String>
         <String xml:lang="id-ID">Alat Modifikasi Kendaraan</String>
+        <String xml:lang="es-ES">Kit de modificación de vehículos</String>
+        <String xml:lang="pt-BR">Kit de modificação de veículos</String>
     </Entry>
     
     <Entry Id="item_modding_kit_desc">
         <String xml:lang="en-US">Replaces a vehicle's custom parts.</String>
         <String xml:lang="it-IT">Sostituisce parti di un veicolo.</String>
         <String xml:lang="id-ID">Mengganti part kendaraan dengan part custom.</String>
+        <String xml:lang="es-ES">Sustituye las piezas modificadas de un vehículo.</String>
+        <String xml:lang="pt-BR">Substitui as peças modificadas de um veículo.</String>
     </Entry>
     
     <Entry Id="item_tint_kit">
         <String xml:lang="en-US">Window Tint Kit</String>
         <String xml:lang="it-IT">Kit per colorazione finestrini</String>
         <String xml:lang="id-ID">Alat Kaca Film</String>
+        <String xml:lang="es-ES">Kit de tintado de cristales</String>
+        <String xml:lang="pt-BR">Kit de tingimento de vidros</String>
     </Entry>
     
     <Entry Id="item_tint_kit_desc">
         <String xml:lang="en-US">Apply tint to vehicle windows.</String>
         <String xml:lang="it-IT">Applica colorazione ai finestrini di un veicolo.</String>
         <String xml:lang="id-ID">Memasang kaca film pada kendaraan.</String>
+        <String xml:lang="es-ES">Aplique tinte a los cristales del vehículo.</String>
+        <String xml:lang="pt-BR">Aplicar tonalidade nos vidros do veículo.</String>
     </Entry>
     
     <Entry Id="item_paint">
         <String xml:lang="en-US">Paint</String>
         <String xml:lang="it-IT">Vernice</String>
         <String xml:lang="id-ID">Kaleng Cat</String>
+        <String xml:lang="es-ES">Pintura</String>
+        <String xml:lang="pt-BR"Pintura></String>
     </Entry>
     
     <Entry Id="item_paint_desc">
         <String xml:lang="en-US">Paint a vehicle.</String>
         <String xml:lang="it-IT">Rivernicia un veicolo.</String>
         <String xml:lang="id-ID">Mewarnai kendaraan</String>
+        <String xml:lang="es-ES">Pinta un Vehiculo</String>
+        <String xml:lang="pt-BR">Pintar um veículo</String>
     </Entry>
     
     <Entry Id="item_boat_kit">
         <String xml:lang="en-US">Boat Engine Repair Kit</String>
         <String xml:lang="it-IT">Kit di riparazione motore di barca</String>
         <String xml:lang="id-ID">Alat Perbaikan Mesin Perahu</String>
+        <String xml:lang="es-ES">Kit de Reparación de motor para barco</String>
+        <String xml:lang="pt-BR">Kit de Reparação de motor para embarcações</String>
     </Entry>
     
     <Entry Id="item_boat_kit_desc">
         <String xml:lang="en-US">Repair a broken boat's engine.</String>
         <String xml:lang="it-IT">Ripara il motore rotto di una barca.</String>
         <String xml:lang="id-ID">Memperbaiki mesin perahu yang rusak.</String>
+        <String xml:lang="es-ES">Reparar el motor de un barco averiado.</String>
+        <String xml:lang="pt-BR">Conserto do motor de uma embarcação danificada</String>
     </Entry>
     
     <Entry Id="item_plane_kit">
         <String xml:lang="en-US">Plane Engine Repair Kit</String>
         <String xml:lang="it-IT">Kit di riparazione motore d'aeroplano</String>
         <String xml:lang="id-ID">Alat Perbaikan Mesin Pesawat</String>
+        <String xml:lang="es-ES">Kit de Reparación de motores para avión.</String>
+        <String xml:lang="pt-BR">Kit de Reparação de motores da aeronaves.</String>
     </Entry>
     
     <Entry Id="item_plane_kit_desc">
         <String xml:lang="en-US">Repair a broken airplane's engine.</String>
         <String xml:lang="it-IT">Ripara il motore rotto di un aeroplano.</String>
         <String xml:lang="id-ID">Memperbaiki mesin pesawat yang rusak.</String>
+        <String xml:lang="es-ES">Reparar el motor de un avión averiado.</String>
+        <String xml:lang="pt-BR">Conserto do motor de uma aeronave danificada.</String>
     </Entry>
     
     <Entry Id="item_heli_kit">
         <String xml:lang="en-US">Helicopter Engine Repair Kit</String>
         <String xml:lang="it-IT">Kit di riparazione motore d'elicottero</String>
         <String xml:lang="id-ID">Alat Perbaikan Mesin Helikopter.</String>
+        <String xml:lang="es-ES">Kit de Reparación de motor para helicóptero</String>
+        <String xml:lang="pt-BR">Kit de Reparação de motor de helicóptero</String>
     </Entry>
     
     <Entry Id="item_heli_kit_desc">
         <String xml:lang="en-US">Repair a broken helicopter's engine.</String>
         <String xml:lang="it-IT">Ripara il motore rotto di un elicottero.</String>
         <String xml:lang="id-ID">Memperbaiki mesin helikopter yang rusak.</String>
+        <String xml:lang="es-ES">Repara el motor de un helicóptero averiado.</String>
+        <String xml:lang="pt-BR">Consertar o motor de um helicóptero quebrado.</String>
     </Entry>
     
     <Entry Id="item_cat_converter">
         <String xml:lang="en-US">Catalytic Converter</String>
         <String xml:lang="it-IT">Convertitore catalitico</String>
         <String xml:lang="id-ID">Catalytic Converter.</String>
+        <String xml:lang="es-ES">Catalizador</String>
+        <String xml:lang="pt-BR">Catalisador</String>
     </Entry>
     
     <Entry Id="item_cat_converter_desc">
         <String xml:lang="en-US">A catalytic converter stolen from someone's car. You can sell this to scrapyards.</String>
         <String xml:lang="it-IT">Un convertitore catalitico rubato dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah catalytic converter yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
+        <String xml:lang="es-ES">Un catalizador robado, del coche de alguien. Puedes venderlo a los desguaces.</String>
+        <String xml:lang="pt-BR">Um conversor catalítico roubado do carro de alguém. Você pode vendê-lo para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_car_battery">
         <String xml:lang="en-US">Car Battery</String>
         <String xml:lang="it-IT">Batteria d'auto</String>
         <String xml:lang="id-ID">Baterai Mobil</String>
+        <String xml:lang="es-ES">Batería de Coche</String>
+        <String xml:lang="pt-BR">Bateria de Carro</String>
     </Entry>
     
     <Entry Id="item_car_battery_desc">
         <String xml:lang="en-US">A battery stolen from someone's car. You can sell this to scrapyards.</String>
         <String xml:lang="it-IT">Una batteria rubata dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah baterai mobil yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
+        <String xml:lang="es-ES">Una batería robada del coche de alguien. Puedes venderla a los desguaces.</String>
+        <String xml:lang="pt-BR">Uma bateria roubada do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_car_stereo">
         <String xml:lang="en-US">Car Stereo</String>
         <String xml:lang="it-IT">Stereo d'auto</String>
         <String xml:lang="id-ID">Speaker Mobil</String>
+        <String xml:lang="es-ES">Equipo estéreo</String>
+        <String xml:lang="pt-BR">Sistema de som</String>
     </Entry>
     
     <Entry Id="item_car_stereo_desc">
         <String xml:lang="en-US">A stereo stolen from someone's car. You can sell this to scrapyards.</String>
         <String xml:lang="it-IT">Uno stereo rubato dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah speaker yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
+        <String xml:lang="es-ES">Equipo estéreo robada del coche de alguien. Puedes venderla a los desguaces.</String>
+        <String xml:lang="pt-BR">Sistema de som roubada do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_health_insurance">
         <String xml:lang="en-US">Health Insurance</String>
         <String xml:lang="it-IT">Assicurazione sanitaria</String>
         <String xml:lang="id-ID">Asuransi Kesehatan</String>
+        <String xml:lang="es-ES">Seguro Médico</String>
+        <String xml:lang="pt-BR">Seguro de Saúde</String>
     </Entry>
     
     <!-- {0} = % of bill covered. Default: 80% - kept as a variable because it could change in the future -->
