@@ -584,7 +584,7 @@
         <String xml:lang="it-IT">Un convertitore catalitico rubato dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah catalytic converter yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
         <String xml:lang="es-ES">Un catalizador robado, del coche de alguien. Puedes venderlo a los desguaces.</String>
-        <String xml:lang="pt-BR">Um conversor catalítico roubado do carro de alguém. Você pode vendê-lo para ferros-velhos.</String>
+        <String xml:lang="pt-BR">Um conversor catalítico, roubado do carro de alguém. Você pode vendê-lo para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_car_battery">
@@ -599,8 +599,8 @@
         <String xml:lang="en-US">A battery stolen from someone's car. You can sell this to scrapyards.</String>
         <String xml:lang="it-IT">Una batteria rubata dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah baterai mobil yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
-        <String xml:lang="es-ES">Una batería robada del coche de alguien. Puedes venderla a los desguaces.</String>
-        <String xml:lang="pt-BR">Uma bateria roubada do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
+        <String xml:lang="es-ES">Una batería robada, del coche de alguien. Puedes venderla a los desguaces.</String>
+        <String xml:lang="pt-BR">Uma bateria roubada,do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_car_stereo">
@@ -615,8 +615,8 @@
         <String xml:lang="en-US">A stereo stolen from someone's car. You can sell this to scrapyards.</String>
         <String xml:lang="it-IT">Uno stereo rubato dall'auto di qualcuno. Puoi venderlo ai depositi rottami.</String>
         <String xml:lang="id-ID">Sebuah speaker yang dicuri dari mobil seseorang. Kamu bisa menjual ini kepada pengepul barang rongsok.</String>
-        <String xml:lang="es-ES">Equipo estéreo robada del coche de alguien. Puedes venderla a los desguaces.</String>
-        <String xml:lang="pt-BR">Sistema de som roubada do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
+        <String xml:lang="es-ES">Equipo estéreo robado, del coche de alguien. Puedes venderla a los desguaces.</String>
+        <String xml:lang="pt-BR">Sistema de som roubada, do carro de alguém. Você pode vendê-la para ferros-velhos.</String>
     </Entry>
     
     <Entry Id="item_health_insurance">
