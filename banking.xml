@@ -746,6 +746,8 @@
         <String xml:lang="zh-Hant">每日利率</String>
         <String xml:lang="lv-LV">Dienas procentu likme</String>
         <String xml:lang="vi-VN">Lãi suất hàng ngày</String>
+        <String xml:lang="es-ES">Tipo de interés diaria</String>
+        <String xml:lang="pt-BR">Taxa de juros diária</String>        
     </Entry>
 
     <!-- {0} = Formatted amount -->
